@@ -1,0 +1,33 @@
+export default {
+    register: {
+        title: 'Apply for Business',
+        english:'English',
+        chinese:'中文',
+        email: 'Email',
+        checkEmail: 'Please enter the  email',
+        rightEmail: 'Please enter the correct email address',
+        eushopEmail: "MyEUShop's email",
+        eushopPwd: "MyEUShop's password",
+        logoSize: 'Size 260x140',
+        bannerSize: 'Size 1140x300',
+        bannerInfo: 'Banner be better!',
+        password: 'Password',
+        rightWord: 'Please enter the password',
+        shopZn: 'CN-name',
+        rightZn: 'Please enter the CN-name',
+        shopEn: 'EN-name',
+        rightEn: 'Please enter the EN-name',
+        number: 'Number',
+        rightNum: 'Please enter the number',
+        qq: 'QQ',
+        wechat: 'We chat',
+        Introduce: 'Introduce',
+        logo: 'LOGO',
+        rightLogo: 'Please enter the shopLogo',
+        banner: 'Banner',
+        confirm: 'confirm',
+        cancel: 'cancel',
+        upload: 'Click to upload',
+    }
+
+}
