@@ -1,0 +1,32 @@
+export default {
+	register: {
+		title: 'Verzoek indienen om verkoper te worden',
+		english: '',
+		chinese: 'Chinees',
+		email: 'E-mailadres',
+		checkEmail: 'Voer uw e-mailadres in',
+		rightEmail: 'Voer een correct e-mailadres in',
+		eushopEmail: 'E-mail voor registratie bij MyEUShop',
+		eushopPwd: 'Wachtwoord voor registratie by MyEUShop',
+		logoSize: 'Afmetingen foto: 260x140',
+		bannerSize: 'Afmetingen foto: 1140x300',
+		bannerInfo: "Verkoop meer door gebruik reclamefoto's",
+		password: 'Wachtwoord',
+		rightWord: 'Voer wachtwoord in',
+		shopZn: 'Chinese naam winkel',
+		rightZn: 'Voer Chinese naam in',
+		shopEn: 'Engelse naam winkel',
+		rightEn: 'Voer Engelse naam in',
+		number: 'Telefoonnummer klantenservice',
+		rightNum: 'Voer telefoonnummer klantenservice in',
+		qq: 'Klantenservice QQ',
+		wechat: 'Klantenservice WeChat',
+		Introduce: 'Over de winkel',
+		logo: 'Logo winkel',
+		rightLogo: 'Upload het logo van de winkel',
+		banner: 'Voeg foto van de winkel toe',
+		confirm: 'Bevestigen',
+		cancel: 'Annuleren',
+		upload: 'Klik op "uploaden"'
+	}
+};

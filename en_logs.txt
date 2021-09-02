@@ -1,0 +1,354 @@
+英文翻译文件 addcart.json 被修改，key：sale，修改前的值：Sale，新的值：On Sale
+英文翻译文件 addcart.json 被修改，key：product_code，修改前的值：Product code，新的值：Product Number
+英文翻译文件 addcart.json 被修改，key：add_cart，修改前的值：Add to cart，新的值：Add to Cart
+英文翻译文件 addcart.json 被修改，key：largest，修改前的值：The largest stock of goods has been reached，新的值：Already the max quantity in stock
+英文翻译文件 addcart.json 被修改，key：qouta，修改前的值：Max {qouta} per order，新的值：{qouta} per order
+英文翻译文件 addcart.json 被修改，key：seckQouta，修改前的值：Max {qouta} per order，新的值：{qouta} per order for flash sale
+英文翻译文件 cart.json 被修改，key：shoptotal，修改前的值：Subtotal，新的值：Total stores
+英文翻译文件 cart.json 被修改，key：promote，修改前的值：Sale，新的值：On Sale
+英文翻译文件 cart.json 被修改，key：startIn，修改前的值：About to START in，新的值：Flash sale start in
+英文翻译文件 cart.json 被修改，key：endIn，修改前的值：About to END in，新的值：Flash sale end in
+英文翻译文件 cart.json 被修改，key：failure，修改前的值：Finished，新的值：Invalid
+英文翻译文件 cart.json 被修改，key：allshop，修改前的值：All brands，新的值：All stores
+英文翻译文件 cart.json 被修改，key：senderAddress，修改前的值：Sender address，新的值：Sender Address
+英文翻译文件 cart.json 被修改，key：recipientAddress，修改前的值：Recipient address，新的值：Recipient Address
+英文翻译文件 cart.json 被修改，key：couponmoney，修改前的值：Discount amount，新的值：Discount Amount
+英文翻译文件 undefined 被修改，key：pay，修改前的值：Pay，新的值：Checkout
+英文翻译文件 undefined 被修改，key：empty，修改前的值：Your cart is empty，新的值：No items in your cart
+英文翻译文件 undefined 被修改，key：goshopping，修改前的值：Go shopping，新的值：Shop now
+英文翻译文件 undefined 被修改，key：sendTime，修改前的值：Delivery date，新的值：Delivery Date
+英文翻译文件 undefined 被修改，key：deletesome，修改前的值：Delete selected items，新的值：Batch deletion
+英文翻译文件 undefined 被修改，key：selectall，修改前的值：Select all，新的值：All
+英文翻译文件 undefined 被修改，key：choose，修改前的值：{all} Items（{select} Products），新的值：Total goods, selected goods
+英文翻译文件 undefined 被修改，key：bill，修改前的值：Total(Excl. shipping cost)，新的值：Total (no freight included)
+英文翻译文件 undefined 被修改，key：adt，修改前的值：Free delivery on orders over €50 (NL) and €65 (Non-NL); otherwise €6.95 for delivery fee.，新的值：Free delivery for goods from 50 Euro across the Netherlands and 65 Euro outside of the Netherlands. Freight of 6.95 Euro will be charged for orders under such amounts.
+英文翻译文件 undefined 被修改，key：go，修改前的值：Continue，新的值：Check out
+英文翻译文件 undefined 被修改，key：already，修改前的值：Already in wish list，新的值：Added to wish list
+英文翻译文件 undefined 被修改，key：largest，修改前的值：The largest stock of goods has been reached，新的值：Already the max quantity in stock
+英文翻译文件 undefined 被修改，key：select，修改前的值：select，新的值：Please select
+英文翻译文件 undefined 被修改，key：pleaseselectdelivery，修改前的值：Please select shipping method，新的值：Please select the method of delivery
+英文翻译文件 undefined 被修改，key：noadvancedate，修改前的值：There is no delivery route for the time limited pre-sale product，新的值：There is no delivery route for the time limited pre-sell product
+英文翻译文件 undefined 被修改，key：redeemCode，修改前的值：Redeem code，新的值：Redeem Code
+英文翻译文件 undefined 被修改，key：redeemSuccess，修改前的值：Redeem succeeded，新的值：Redeem Successful
+英文翻译文件 undefined 被修改，key：title，修改前的值：Delivery，新的值：Method of Delivery
+英文翻译文件 undefined 被修改，key：title，修改前的值：Make a delivery appointment，新的值：Reserve the delivery date
+英文翻译文件 undefined 被修改，key：content1，修改前的值：Please confirm your order and click [Check Out] to choose your delivery day.，新的值：Please confirm your order and click [Submit] to choose your delivery day.
+英文翻译文件 undefined 被修改，key：content2，修改前的值：Thank you for your support！，新的值：Thanks for your support!
+英文翻译文件 undefined 被修改，key：title，修改前的值：Time of delivery，新的值：Delivery Date
+英文翻译文件 undefined 被修改，key：placeholder，修改前的值：Please select time of delivery，新的值：Please select the delivery date
+英文翻译文件 undefined 被修改，key：content1，修改前的值：Please make the appointment one day before the delivery day to insure your order has been prepared.，新的值：Please reserve one day in advance to allow us to pick the goods for you.
+英文翻译文件 undefined 被修改，key：content2，修改前的值：For the pickup-order, the pickup time is 14:00-17:00.，新的值：Goods can be picked up at 14:00-17:00 p.m. by presenting the screeshot of the order placed over your phone.
+英文翻译文件 undefined 被修改，key：agent，修改前的值：Please select pickup point，新的值：Please select pick up point
+英文翻译文件 undefined 被修改，key：agentPoint，修改前的值：Please select address pickup point，新的值：Please select pick up point adress
+英文翻译文件 undefined 被修改，key：discount，修改前的值：discount，新的值：Discount
+英文翻译文件 undefined 被修改，key：discountRange，修改前的值：discount range:，新的值：Discount Range:
+英文翻译文件 undefined 被修改，key：allCategory，修改前的值：All Categories，新的值：All categories
+英文翻译文件 undefined 被修改，key：selectedCategories，修改前的值：Selected Categories，新的值：Partial Categories
+英文翻译文件 undefined 被修改，key：before，修改前的值：Please choose another delivery method，新的值：Please select other method of delivery.
+英文翻译文件 undefined 被修改，key：noMatch，修改前的值：Same-day Delivery do not delivery to this postcode yet, please choose another delivery method or postcode.，新的值：Address without the scope of delivery, please select other address.
+英文翻译文件 undefined 被修改，key：timeLeft，修改前的值：Order before，新的值：We will provide same-day delivery for customers placing orders
+英文翻译文件 undefined 被修改，key：timeRight，修改前的值：, delivered same day.，新的值：before
+英文翻译文件 undefined 被修改，key：postLeft，修改前的值：Currently, the delivery area is，新的值：with the following
+英文翻译文件 undefined 被修改，key：postMiddle，修改前的值：and，新的值：Only support regions
+英文翻译文件 undefined 被修改，key：postRight，修改前的值：. We will extend our delivery area soon.，新的值：More regions will be supported.
+英文翻译文件 undefined 被修改，key：title，修改前的值：Dropshipping（Send China），新的值：SEND directly to CN
+英文翻译文件 undefined 被修改，key：content，修改前的值：The complete parcel will be sent to your Chinese Recipient’s address directly after picked and packed by us. You can track your parcel on https://www.nlebv.com/.，新的值：Send directly to CN: After an order is placed, we will deliver the packed goods directly to the Chinese recipient address you provide. You can track the order on NLE website.
+英文翻译文件 undefined 被修改，key：title，修改前的值：Home Delivery（Send China），新的值：Send indirectly to CN
+英文翻译文件 undefined 被修改，key：edit，修改前的值：Edit，新的值：Modify the cart
+英文翻译文件 undefined 被修改，key：voucher，修改前的值：Voucher，新的值：Vouchers
+英文翻译文件 undefined 被修改，key：available，修改前的值：Available，新的值：Currently available
+英文翻译文件 undefined 被修改，key：repeat，修改前的值：Cannot choose coupons repeatedly，新的值：Vouchers cannot be chosen for a second time
+英文翻译文件 undefined 被修改，key：shippingInfo，修改前的值：Shipping Address，新的值：Delivery information
+英文翻译文件 undefined 被修改，key：title，修改前的值：Order Remarks，新的值：Order remarks
+英文翻译文件 undefined 被修改，key：content，修改前的值：Please do not note the scheduled delivery time. If you have any questions, please contact the customer service team.，新的值：Please do not state the pick-up date in the remarks, as the actual delivery is dependent on the quantity of your oder and the road conditions. Any questions, please contact Customer Service.
+英文翻译文件 undefined 被修改，key：line，修改前的值：Logistic Service，新的值：Route
+英文翻译文件 undefined 被修改，key：shipping，修改前的值：Shipping，新的值：Freight
+英文翻译文件 undefined 被修改，key：address，修改前的值：select address，新的值：please select the address
+英文翻译文件 undefined 被修改，key：shippingCost，修改前的值：Shipping cost，新的值：Freight
+英文翻译文件 undefined 被修改，key：bag，修改前的值：Shopping Bag，新的值：Packing fee
+英文翻译文件 undefined 被修改，key：submit，修改前的值：Check Out，新的值：Submit
+英文翻译文件 undefined 被修改，key：shouldPay，修改前的值：Subtotal，新的值：Total to pay
+英文翻译文件 undefined 被修改，key：selectDeliveryTime，修改前的值：Select delivery date，新的值：Please select the delivery date
+英文翻译文件 undefined 被修改，key：cantChangeTime，修改前的值：Can't change after confirm，新的值：The delivery date cannot be changed upon being selected
+英文翻译文件 undefined 被修改，key：next，修改前的值：The next step will be the payment page，新的值：Next will go to the checkout page
+英文翻译文件 undefined 被修改，key：orderNote，修改前的值：undefined，新的值：Order remarks
+英文翻译文件 undefined 被修改，key：senderInfo，修改前的值：Sender Information，新的值：Sender information
+英文翻译文件 undefined 被修改，key：recipientInfo，修改前的值：Recipient Information，新的值：Recipient information
+英文翻译文件 undefined 被修改，key：onlabel，修改前的值：On the label，新的值：Information on the label
+英文翻译文件 undefined 被修改，key：limit，修改前的值：The items in cart have exceeded the shipping limit of one parcel, please modify your cart.，新的值：The quantity of the goods in the current cart exceeds that required for a single order. Please modify the quantity of goods in the cart.
+英文翻译文件 undefined 被修改，key：haveYourOrderPleasePayment，修改前的值：Your order has been confirmed.，新的值：Your order is generated now, please check out as soon as possible!
+英文翻译文件 undefined 被修改，key：shouldPaymentMoney，修改前的值：Total，新的值：Amount payable
+英文翻译文件 undefined 被修改，key：orderDetail，修改前的值：Order details，新的值：Order Details
+英文翻译文件 undefined 被修改，key：orderCode，修改前的值：Order number，新的值：Order Number
+英文翻译文件 undefined 被修改，key：shopTogether，修改前的值：Subtotal，新的值：Total stores
+英文翻译文件 undefined 被修改，key：deliveryAddress，修改前的值：Delivery address，新的值：Delivery Address
+英文翻译文件 undefined 被修改，key：fullName，修改前的值：Full name，新的值：Name
+英文翻译文件 undefined 被修改，key：tel，修改前的值：Contact information，新的值：Telephone Number
+英文翻译文件 undefined 被修改，key：deliveryMethods，修改前的值：Delivery methods，新的值：Method of Delivery
+英文翻译文件 undefined 被修改，key：selectPayStyle，修改前的值：Payment Method，新的值：Please select method of payment
+英文翻译文件 undefined 被修改，key：wxText，修改前的值：Use Wechat scan, to scan QR code to complete payment，新的值：Use WeChat to scan the QR code to complete the payment
+英文翻译文件 undefined 被修改，key：timeOver，修改前的值：Time limit will be exceeded after 6 minutes，新的值：Expiry in 6 minutes
+英文翻译文件 undefined 被修改，key：overTime，修改前的值：Expiration time，新的值：Deadline
+英文翻译文件 undefined 被修改，key：productTotal，修改前的值：Product Total，新的值：Total price
+英文翻译文件 undefined 被修改，key：handling，修改前的值：Handling Fee，新的值：Handling fee
+英文翻译文件 undefined 被修改，key：payTotal，修改前的值：Total to pay，新的值：Total amount
+英文翻译文件 undefined 被修改，key：alipayPayment，修改前的值：Alipay payment，新的值：Pay by Alipay
+英文翻译文件 undefined 被修改，key：alipayText，修改前的值：To complete the payment, scan QR code to use Alipay，新的值：Use Alipay to scan the QR code to complete the payment
+英文翻译文件 undefined 被修改，key：balancePayment，修改前的值：Pay from account balance，新的值：Pay with account balance
+英文翻译文件 undefined 被修改，key：balanceAbout，修改前的值：NOTE: All transactions are processed only when your NLE account balance exceeds €20. If you hit the back button during the transaction, the cookie will automatically reject your transaction even if you inputted the correct information.，新的值：please confirm the balance is at least 20 euro. NLE will apply this as a deposit and can therefore not be used. Thank you for your understanding!
+英文翻译文件 undefined 被修改，key：AccountBalance，修改前的值：Account balance，新的值：Account Balance
+英文翻译文件 undefined 被修改，key：payImmediately，修改前的值：Pay now，新的值：Pay Now
+英文翻译文件 undefined 被修改，key：iDealPayment，修改前的值：Pay with iDeal，新的值：Pay with iDEAL
+英文翻译文件 undefined 被修改，key：noshipping，修改前的值：Please select shipping address，新的值：Please select delivery address
+英文翻译文件 undefined 被修改，key：noDelivery，修改前的值：Please select delivery method，新的值：Please select method of delivery
+英文翻译文件 undefined 被修改，key：noline，修改前的值：Please select shipping service，新的值：Please select the route
+英文翻译文件 undefined 被修改，key：Paymenttimeout，修改前的值：Payment time out please refresh the page，新的值：Payment timeout, please refresh the page
+英文翻译文件 undefined 被修改，key：selectDate，修改前的值：Book your delivery，新的值：Please select the delivery date
+英文翻译文件 undefined 被修改，key：pleaseSelectDate，修改前的值：Please book your delivery，新的值：Please select the delivery date
+英文翻译文件 undefined 被修改，key：excess，修改前的值：FULL，新的值：Full
+英文翻译文件 undefined 被修改，key：choose，修改前的值：Delivery day，新的值：Already selected
+英文翻译文件 undefined 被修改，key：comfirm，修改前的值：Confirm，新的值：Confirm the date
+英文翻译文件 center.json 被修改，key：invoiceList，修改前的值：Invoice List，新的值：List of invoices
+英文翻译文件 center.json 被修改，key：shippingaddress，修改前的值：Shipping Address，新的值：Address
+英文翻译文件 center.json 被修改，key：reciveAddress，修改前的值：Address list，新的值：Delivery Address
+英文翻译文件 center.json 被修改，key：senderinfo，修改前的值：Sender Information，新的值：Sender information
+英文翻译文件 center.json 被修改，key：recipientinfo，修改前的值：Recipient Information，新的值：Recipient information
+英文翻译文件 center.json 被修改，key：invoiceinformation，修改前的值：Invoice Information，新的值：Invoice Address
+英文翻译文件 center.json 被修改，key：orderrefund，修改前的值：Order Refund，新的值：My Refund
+英文翻译文件 center.json 被修改，key：wishList，修改前的值：Wish List，新的值：My Wish List
+英文翻译文件 center.json 被修改，key：logout，修改前的值：Log Out，新的值：Log out
+英文翻译文件 center.json 被修改，key：sale，修改前的值：Sale，新的值：On Sale
+英文翻译文件 center.json 被修改，key：noorder，修改前的值：0 order，新的值：No order now
+英文翻译文件 center.json 被修改，key：nowish，修改前的值：0 wish，新的值：Nothing in the wish list now
+英文翻译文件 center.json 被修改，key：suretologout，修改前的值：Are you sure to log out?，新的值：Are you sure to log out?/
+英文翻译文件 center.json 被修改，key：allshop，修改前的值：All brands，新的值：All stores
+英文翻译文件 center.json 被修改，key：sendername，修改前的值：Sender，新的值：Sender Name
+英文翻译文件 center.json 被修改，key：senderaddress，修改前的值：Sender address，新的值：Sender Address
+英文翻译文件 center.json 被修改，key：recipientname，修改前的值：Recipient，新的值：Recipient Name
+英文翻译文件 center.json 被修改，key：recipientaddress，修改前的值：Recipient address，新的值：Recipient Address
+英文翻译文件 center.json 被修改，key：emailPlaceholder，修改前的值：Email，新的值：Please enter E-mail address
+英文翻译文件 undefined 被修改，key：editinfo，修改前的值：Edit info，新的值：Modify your profile
+英文翻译文件 undefined 被修改，key：welcome，修改前的值：Hello, welcome to MyEUShop，新的值：Hi, welcome to MyEUShop
+英文翻译文件 undefined 被修改，key：clientnumber，修改前的值：Client number，新的值：Customer Number
+英文翻译文件 undefined 被修改，key：contactinfo，修改前的值：Tel，新的值：Telephone Number
+英文翻译文件 undefined 被修改，key：wishproduct，修改前的值：Wish product，新的值：Items in wish list
+英文翻译文件 undefined 被修改，key：wishshop，修改前的值：Wish shop，新的值：Brands in wish list
+英文翻译文件 undefined 被修改，key：shipaddress，修改前的值：Ship address，新的值：Recipient Address
+英文翻译文件 undefined 被修改，key：unpaid，修改前的值：Unpaid，新的值：To be paid
+英文翻译文件 undefined 被修改，key：unreciived，修改前的值：Unreceived，新的值：To be received
+英文翻译文件 undefined 被修改，key：unevaluated，修改前的值：Unevaluated，新的值：To be commented
+英文翻译文件 undefined 被修改，key：lastestorder，修改前的值：Latest order，新的值：Latest orders
+英文翻译文件 undefined 被修改，key：editaccount，修改前的值：Edit my account，新的值：Edit your account
+英文翻译文件 undefined 被修改，key：photo，修改前的值：Photo，新的值：Profile picture
+英文翻译文件 undefined 被修改，key：fullname，修改前的值：Full name，新的值：Name
+英文翻译文件 undefined 被修改，key：postcode，修改前的值：Postal code，新的值：Postcode
+英文翻译文件 undefined 被修改，key：birthday，修改前的值：Birthday，新的值：Date of Birth
+英文翻译文件 undefined 被修改，key：door，修改前的值：Door number，新的值：House Number
+英文翻译文件 undefined 被修改，key：street，修改前的值：Street，新的值：Subdistrict
+英文翻译文件 undefined 被修改，key：tel，修改前的值：Phone number，新的值：Telephone Number
+英文翻译文件 undefined 被修改，key：mywish，修改前的值：My wish，新的值：My Wish List
+英文翻译文件 undefined 被修改，key：orderdetails，修改前的值：Order details，新的值：Order Details
+英文翻译文件 undefined 被修改，key：continueshopping，修改前的值：Buy Again，新的值：Buy more
+英文翻译文件 undefined 被修改，key：makeapp，修改前的值：Make appointment，新的值：Select another delivery date
+英文翻译文件 undefined 被修改，key：cancelapp，修改前的值：Cancel appointment，新的值：Cancel reservation
+英文翻译文件 undefined 被修改，key：expressdetail，修改前的值：Look logistics，新的值：Tracking order
+英文翻译文件 undefined 被修改，key：agree，修改前的值：Agree，新的值：Accept
+英文翻译文件 undefined 被修改，key：refundnotice，修改前的值：Refund Notice，新的值：Refund Notices
+英文翻译文件 undefined 被修改，key：refundnoticecontent1，修改前的值：1. Coupons cannot be refunded if your order is paid with them.，新的值：①If a voucher is used for your order, the voucher cannot be returned to you.
+英文翻译文件 undefined 被修改，key：refundnoticecontent2，修改前的值：2. Commission fees charged by the third-party payment gateway cannot be refunded if you pay via Wechat or Alipay.，新的值：②If you use Alipay or WeChat to pay, the handling fee will not be refunded because the it is charged by a third-party platform.
+英文翻译文件 undefined 被修改，key：refundnoticecontent3，修改前的值：3. It takes 2-5 working days to get your money back after applying for a refund.，新的值：③After you apply for a refund, the Customer Service will review the refund for you in time, and the Finance will refund you within 2-5 working days.
+英文翻译文件 undefined 被修改，key：refundnoticecontent4，修改前的值：4. For more details, please refer to our after-sales service terms or customer service staff.，新的值：④For more information on refund, please check after-sales services or consult Customer Service.
+英文翻译文件 undefined 被修改，key：ordernumber，修改前的值：Order number，新的值：Order Number
+英文翻译文件 undefined 被修改，key：ordertime，修改前的值：Order time，新的值：Time of order
+英文翻译文件 undefined 被修改，key：deleteorder，修改前的值：Delete，新的值：Delete order
+英文翻译文件 undefined 被修改，key：commentorder，修改前的值：Comment，新的值：Comment Now
+英文翻译文件 undefined 被修改，key：downloadinvoice，修改前的值：Download invoice，新的值：Invoice downloading
+英文翻译文件 undefined 被修改，key：immediatepayment，修改前的值：Pay now，新的值：Pay Now
+英文翻译文件 undefined 被修改，key：applyforreturn，修改前的值：Request a refund，新的值：Apply for Refund
+英文翻译文件 undefined 被修改，key：pleaseinputorder，修改前的值：Please input order number，新的值：Enter order number
+英文翻译文件 undefined 被修改，key：paymentresttime，修改前的值：Remaining time to pay，新的值：Remaining time for payment
+英文翻译文件 undefined 被修改，key：timeover，修改前的值：Order has been cancelled，新的值：Payment timeout, order cancelled
+英文翻译文件 undefined 被修改，key：ordersubmit，修改前的值：Order submit，新的值：Submit
+英文翻译文件 undefined 被修改，key：paid，修改前的值：paid，新的值：Checkout
+英文翻译文件 undefined 被修改，key：distance，修改前的值：Distance，新的值：away from you
+英文翻译文件 undefined 被修改，key：delivering，修改前的值：delivering，新的值：Delivery
+英文翻译文件 undefined 被修改，key：delivered，修改前的值：delivered，新的值：Sign for acknowledgement of receipt
+英文翻译文件 undefined 被修改，key：deliveryname，修改前的值：Delivery name，新的值：Name
+英文翻译文件 undefined 被修改，key：postnlDelivery，修改前的值：Postnl number，新的值：Tracking Number
+英文翻译文件 undefined 被修改，key：deliveryaddress，修改前的值：Delivery address，新的值：Delivery Address
+英文翻译文件 undefined 被修改，key：deliverystyle，修改前的值：Delivery methods，新的值：Method of Delivery
+英文翻译文件 undefined 被修改，key：thegoodsstyle，修改前的值：Delivery method，新的值：Method of Pick-up
+英文翻译文件 undefined 被修改，key：expresscode，修改前的值：Tracking number，新的值：Tracking Number
+英文翻译文件 undefined 被修改，key：apptime，修改前的值：Time of delivery，新的值：Delivery Date
+英文翻译文件 undefined 被修改，key：lookexpress，修改前的值：Check track & trace，新的值：Tracking order
+英文翻译文件 undefined 被修改，key：goodssubtotal，修改前的值：Subtotal of goods，新的值：Total stores
+英文翻译文件 undefined 被修改，key：shoppingbag，修改前的值：Shopping bag，新的值：Packing fee
+英文翻译文件 undefined 被修改，key：freight，修改前的值：Shipping cost，新的值：Freight
+英文翻译文件 undefined 被修改，key：couponmoney，修改前的值：Discount amount，新的值：Discount Amount
+英文翻译文件 undefined 被修改，key：havepaymentmoney，修改前的值：Amount has been paid，新的值：Actual Amount
+英文翻译文件 undefined 被修改，key：shouldpaymentmoney，修改前的值：Total，新的值：Amount payable
+英文翻译文件 undefined 被修改，key：track，修改前的值：Track，新的值：Tracking order
+英文翻译文件 undefined 被修改，key：progress，修改前的值：Progress，新的值：Location and work progress
+英文翻译文件 undefined 被修改，key：noexpressinformation，修改前的值：No delivery information，新的值：No trackiing results
+英文翻译文件 undefined 被修改，key：globalnumber，修改前的值：Global tracking number，新的值：Tracking Number (International Express)
+英文翻译文件 undefined 被修改，key：downloadlabel，修改前的值：Download Label，新的值：Download the label
+英文翻译文件 undefined 被修改，key：shipaddress，修改前的值：Shipping address，新的值：Delivery information
+英文翻译文件 undefined 被修改，key：deliverytime，修改前的值：Delivery time，新的值：Delivery Date
+英文翻译文件 undefined 被修改，key：pleaseselect，修改前的值：Please select address，新的值：Please select
+英文翻译文件 undefined 被修改，key：warehouseaddress，修改前的值：Warehouse address，新的值：Warehouse Address
+英文翻译文件 undefined 被修改，key：orderdelivery1，修改前的值：Please make the appointment one day before the delivery day to insure your order has been prepared.，新的值：Please reserve one day in advance to allow us to pick the goods for you.
+英文翻译文件 undefined 被修改，key：orderdelivery2，修改前的值：For the pickup-order, the pickup time is 14:00-18:00.，新的值：Goods can be picked up at 14:00-18:00 p.m. by presenting the screeshot of the order placed over your phone.
+英文翻译文件 undefined 被修改，key：mycomment，修改前的值：My comment，新的值：My comments
+英文翻译文件 undefined 被修改，key：ordercoment1，修改前的值：How about giving me an evaluation!，新的值：Hello dear, how about giving me an evaluation！
+英文翻译文件 undefined 被修改，key：batchdownload，修改前的值：Batch download，新的值：Batch downloading
+英文翻译文件 undefined 被修改，key：timerange，修改前的值：Time range，新的值：Time Slot
+英文翻译文件 undefined 被修改，key：invoicevalue，修改前的值：Invoice value，新的值：Invoice Value
+英文翻译文件 undefined 被修改，key：inverse，修改前的值：Inverse，新的值：Invert Selection
+英文翻译文件 undefined 被修改，key：mymessage，修改前的值：My message，新的值：My Messages
+英文翻译文件 undefined 被修改，key：allmessage，修改前的值：All，新的值：All messages
+英文翻译文件 undefined 被修改，key：systemmessage，修改前的值：System，新的值：System Message
+英文翻译文件 undefined 被修改，key：refundlist，修改前的值：Refund list，新的值：List of refunds
+英文翻译文件 undefined 被修改，key：applyforreturn，修改前的值：Request a refund，新的值：Apply for Refund
+英文翻译文件 undefined 被修改，key：returnreason，修改前的值：Reason for refund，新的值：Refund Reason
+英文翻译文件 undefined 被修改，key：returnsuccess，修改前的值：Refund successfully，新的值：Refund Successfully
+英文翻译文件 undefined 被修改，key：enteryouaccoundpleaselook，修改前的值：Will be return to your account, please check your account，新的值：please check
+英文翻译文件 undefined 被修改，key：therefundcheckisnotapproved，修改前的值：Refund not approved，新的值：Refund Rejected
+英文翻译文件 undefined 被修改，key：approvalofrefund，修改前的值：Refund approved，新的值：Refund accepted
+英文翻译文件 undefined 被修改，key：ifshopagree，修改前的值：When seller has been agreed，新的值：If accepted by the Seller,
+英文翻译文件 undefined 被修改，key：sevendealtoyoureturn，修改前的值：will deal your refund request within 7 days，新的值：the refund will be handled within 7 days
+英文翻译文件 undefined 被修改，key：ifshoprefuse，修改前的值：When seller has been refused，新的值：If the refund is rejected by the Seller,
+英文翻译文件 undefined 被修改，key：needtoyoucontactservice，修改前的值：Contact customer service for further details，新的值：you are required to contact Customer Service
+英文翻译文件 undefined 被修改，key：ifshopernodeal，修改前的值：When the seller has not been processed，新的值：If tue refund is not handled by the Seller,
+英文翻译文件 undefined 被修改，key：youcanapplyforcustomer，修改前的值：You can apply for customer service intervention，新的值：you may contact customer service
+英文翻译文件 undefined 被修改，key：returninstructions，修改前的值：Return instructions，新的值：Refund notices
+英文翻译文件 undefined 被修改，key：shopinstructions，修改前的值：Shopping instructions，新的值：Seller description
+英文翻译文件 undefined 被修改，key：applyfortime，修改前的值：Application time，新的值：Time of application
+英文翻译文件 undefined 被修改，key：wishlist，修改前的值：Wish list，新的值：List of items in wish list
+英文翻译文件 undefined 被修改，key：wishproduct，修改前的值：Wish product，新的值：Items in wish list
+英文翻译文件 undefined 被修改，key：wishshop，修改前的值：Wish shop，新的值：Brands in wish list
+英文翻译文件 undefined 被修改，key：suretodeletewish，修改前的值：Are you sure to cancel collection ，新的值：Are you sure to remove it from wish list?
+英文翻译文件 undefined 被修改，key：goodsCanNotRefund，修改前的值：The product cannot request for refund，新的值：Unable to refund
+英文翻译文件 undefined 被修改，key：selectAll，修改前的值：Select all，新的值：All
+英文翻译文件 undefined 被修改，key：refundMethod，修改前的值：Refund method，新的值：Refund Methods
+英文翻译文件 undefined 被修改，key：cashRefund，修改前的值：Prepaid Voucher，新的值：Rechargeable vouchers
+英文翻译文件 undefined 被修改，key：bankNo，修改前的值：Bank number，新的值：Bank card number
+英文翻译文件 undefined 被修改，key：bankInfo，修改前的值：Please ensure the name and bank account you entered are correspond, otherwise, it may cause to failure refund transaction.，新的值：Please ensure the name you entered is the same one for the bank card, otherwise, the refund may fail.
+英文翻译文件 undefined 被修改，key：bankName，修改前的值：Name bank account，新的值：Name for the bank card
+英文翻译文件 undefined 被修改，key：maxRefund，修改前的值：Max refund amount，新的值：Enter amount no more than
+英文翻译文件 undefined 被修改，key：shippingFee，修改前的值：,shipping fee will not be refunded.，新的值：The refunded amount will not include handling fee
+英文翻译文件 undefined 被修改，key：selectCash，修改前的值：Refund with prepaid voucher: we will review and send a prepaid voucher to your voucher list within 2 working days. The prepaid voucher is available to use on all products with no minimum spending limit.，新的值：Refund with rechargeable voucher: we will review and send a rechargeable voucher equivalent to the refunded amount to your vouchers. The rechargeable voucher is available to be used on all products with no minimum spending limit. The refund will be normally reviewed and made within 2 working days
+英文翻译文件 undefined 被修改，key：pleaseEnterAmount，修改前的值：Please enter refund amount，新的值：Please enter the refund amount
+英文翻译文件 undefined 被修改，key：pleaseEnterReason，修改前的值：Please enter refund reason，新的值：Please state the reason
+英文翻译文件 undefined 被修改，key：pleaseUploadPhoto，修改前的值：Please upload photo，新的值：Please upload pictures
+英文翻译文件 undefined 被修改，key：selectReundMethod，修改前的值：Please select refund method，新的值：Please select the method of refund
+英文翻译文件 undefined 被修改，key：pleaseEnterBank，修改前的值：Please enter your bank account number，新的值：Please enter bank card number
+英文翻译文件 undefined 被修改，key：pleaseEnterName，修改前的值：Please enter your full name，新的值：Please enter Name
+英文翻译文件 undefined 被修改，key：refundAmount，修改前的值：Refund Amount，新的值：Refund amount
+英文翻译文件 undefined 被修改，key：refunding，修改前的值：Processing Refund，新的值：Refunding
+英文翻译文件 undefined 被修改，key：refundSuccess，修改前的值：Refund Succeed，新的值：Refund Successfully
+英文翻译文件 undefined 被修改，key：tips，修改前的值：Tips，新的值：Hint
+英文翻译文件 undefined 被修改，key：uploadimage，修改前的值：Upload image，新的值：Upload pictures
+英文翻译文件 undefined 被修改，key：clicktoupload，修改前的值：Click，新的值：Click "Upload"
+英文翻译文件 undefined 被修改，key：deleteimage，修改前的值：Delete，新的值：Delete the picture
+英文翻译文件 common.json 被修改，key：sureToDeleteit，修改前的值：Are you sure to delete it?，新的值：Are you sure to delete?
+英文翻译文件 cookies.json 被修改，key：title，修改前的值：Cookies，新的值：Cookies Agreement
+英文翻译文件 cookies.json 被修改，key：info，修改前的值： We use cookies on our website to facilitate the functionality and performance of our service. We use essential, functionality and analytics cookies for the following purposes: to enable certain functions of the service, to store your preferences, to provide analytics. You can find more information in our，新的值：We use cookies on our website to provide you with better service. We use essential, functionality and analytics cookies for the following purposes: To ensure the website functions normally, store your preferences and provide analysis.
+英文翻译文件 cookies.json 被修改，key：click，修改前的值：Cookies policy，新的值：For more information, please refer to our Cookies policy
+英文翻译文件 cookies.json 被修改，key：error，修改前的值：please click i "agree"，新的值：Please click "I Agree“
+英文翻译文件 undefined 被修改，key：rules，修改前的值：Rules of Use，新的值：Voucher Description
+英文翻译文件 undefined 被修改，key：cancelVoucher，修改前的值：Cancel voucher，新的值：Cancel Voucher
+英文翻译文件 undefined 被修改，key：nostart，修改前的值：Not started，新的值：Unstarted
+英文翻译文件 undefined 被修改，key：expiryDate，修改前的值：Expiry date，新的值：Remain valid
+英文翻译文件 undefined 被修改，key：entryvoucher，修改前的值：Please entry redeem code，新的值：Please enter voucher code
+英文翻译文件 undefined 被修改，key：over，修改前的值：Min. Spend €{money}，新的值：Available from {money}
+英文翻译文件 undefined 被修改，key：cash，修改前的值：Prepaid voucher，新的值：Rechargeable Voucher
+英文翻译文件 undefined 被修改，key：freeshipping，修改前的值：Free Shipping，新的值：Free Shipping Voucher
+英文翻译文件 undefined 被修改，key：cancelCash，修改前的值：Cancel prepaid voucher，新的值：Cancel Rechargeable Voucher
+英文翻译文件 undefined 被修改，key：noExpired，修改前的值：The prepaid vouchers can be stacked，no expiration date，新的值：The rechargeable vouchers can be stacked，no expiry date
+英文翻译文件 undefined 被修改，key：loginTitle，修改前的值：Log In，新的值：Log in
+英文翻译文件 undefined 被修改，key：loginInfo，修改前的值：，新的值：NLE customers can log in by entering their account email address, and the balance can be used to pay directly.
+英文翻译文件 undefined 被修改，key：emailPlaceholder，修改前的值：Email，新的值：Please enter E-mail address
+英文翻译文件 undefined 被修改，key：passwdPlaceholder，修改前的值：password，新的值：Please enter Password
+英文翻译文件 undefined 被修改，key：forgetPasswd，修改前的值：Forgot password?，新的值：Forget your password?
+英文翻译文件 undefined 被修改，key：register，修改前的值：Create an Account，新的值：Sign up
+英文翻译文件 undefined 被修改，key：registerInfo，修改前的值：，新的值：After signing up is successful, the email address you enter cannot be changed; you are advised to use your personal email address.
+英文翻译文件 undefined 被修改，key：registerProtocol，修改前的值：By creating an account, you agree to MyEUShop User License Agreement，新的值：Accept the registration agreement, click"Read"
+英文翻译文件 undefined 被修改，key：registerBtn，修改前的值：Create your Account，新的值：Sign up now
+英文翻译文件 undefined 被修改，key：forget，修改前的值：Forgot password，新的值：Forget password
+英文翻译文件 undefined 被修改，key：remember，修改前的值：Keep logged in for 7 days，新的值：No need to log in within 7 days
+英文翻译文件 undefined 被修改，key：mailerror，修改前的值：Email format is not correct，新的值：Incorrect format of Email address
+英文翻译文件 undefined 被修改，key：check，修改前的值：Please check the user agreement，新的值：Please check the user agreement before moving on to next step
+英文翻译文件 undefined 被修改，key：emailMessage，修改前的值：Email is required，新的值：E-mail address cannot be empty
+英文翻译文件 undefined 被修改，key：passwdMessage，修改前的值：Password is required，新的值：Passward cannot be empty
+英文翻译文件 header.json 被修改，key：NL，修改前的值：NL，新的值：Netherlands
+英文翻译文件 header.json 被修改，key：DE，修改前的值：DE，新的值：Germany
+英文翻译文件 header.json 被修改，key：BE，修改前的值：BE，新的值：Belgium
+英文翻译文件 undefined 被修改，key：login，修改前的值：Log In | Register，新的值：Log in/Sign up
+英文翻译文件 undefined 被修改，key：coupon，修改前的值：Voucher，新的值：Vouchers
+英文翻译文件 undefined 被修改，key：like，修改前的值：Wish List，新的值：My Wish List
+英文翻译文件 undefined 被修改，key：suggest，修改前的值：Suggestion，新的值：Feedback and suggestions
+英文翻译文件 undefined 被修改，key：toTop，修改前的值：Return to top，新的值：Return to the top
+英文翻译文件 hot.json 被修改，key：all，修改前的值：all，新的值：All
+英文翻译文件 hot.json 被修改，key：nothing，修改前的值：No products，新的值：No items
+英文翻译文件 hot.json 被修改，key：largest，修改前的值：The largest stock of goods has been reached，新的值：Already the max quantity in stock
+英文翻译文件 undefined 被修改，key：address，修改前的值：Invoice Address list，新的值：Invoice Address
+英文翻译文件 undefined 被修改，key：todefault，修改前的值：Set as default address，新的值：Set as default
+英文翻译文件 undefined 被修改，key：newaddress，修改前的值：Add invoice，新的值：New invoice
+英文翻译文件 undefined 被修改，key：address，修改前的值：Address list，新的值：Delivery Address
+英文翻译文件 undefined 被修改，key：address，修改前的值：Sender Information，新的值：Sender Address
+英文翻译文件 undefined 被修改，key：name，修改前的值：Sender，新的值：Please enter sender name
+英文翻译文件 undefined 被修改，key：country，修改前的值：China，新的值：CN
+英文翻译文件 undefined 被修改，key：address，修改前的值：Recipient Information，新的值：Recipient Address
+英文翻译文件 undefined 被修改，key：name，修改前的值：Recipient (Chinese)，新的值：Please enter recipient name
+英文翻译文件 undefined 被修改，key：phone，修改前的值：Phone，新的值：Please enter phone number
+英文翻译文件 undefined 被修改，key：city，修改前的值：City，新的值：Please select province, city and district
+英文翻译文件 undefined 被修改，key：street，修改前的值：Street (No Need to repeat the provinces and cities)，新的值：Please enter detailed address (no need to enter province, city names again)
+英文翻译文件 undefined 被修改，key：id，修改前的值：ID，新的值：Please enter ID
+英文翻译文件 undefined 被修改，key：postcode，修改前的值：Postcode (Optional)，新的值：Please enter postcode (optional)
+英文翻译文件 undefined 被修改，key：idpic，修改前的值：Picture ID，新的值：Upload ID
+英文翻译文件 undefined 被修改，key：backside，修改前的值：ID Backside，新的值：ID Back
+英文翻译文件 undefined 被修改，key：name，修改前的值：company name，新的值：Enter company name
+英文翻译文件 undefined 被修改，key：kvk，修改前的值：KVK registeration no，新的值：Enter KVK registration number
+英文翻译文件 undefined 被修改，key：vat，修改前的值：VAT no，新的值：Enter VAT number
+英文翻译文件 undefined 被修改，key：name，修改前的值：recipient，新的值：Enter recipient name
+英文翻译文件 undefined 被修改，key：phone，修改前的值：Sample:612345678，新的值：Please enter phone number
+英文翻译文件 undefined 被修改，key：postcode，修改前的值：postal code，新的值：Enter postcode
+英文翻译文件 undefined 被修改，key：doorno，修改前的值：door number，新的值：Enter house number
+英文翻译文件 undefined 被修改，key：city，修改前的值：city，新的值：Enter city name
+英文翻译文件 undefined 被修改，key：street，修改前的值：streetname，新的值：Enter subdistrict name
+英文翻译文件 leftNav.json 被修改，key：buy，修改前的值：How to Buy，新的值：Shopping guidance
+英文翻译文件 leftNav.json 被修改，key：guide，修改前的值：New User Guide，新的值：Shopping process
+英文翻译文件 leftNav.json 被修改，key：payment，修改前的值：Payment Methods，新的值：Payment Method
+英文翻译文件 leftNav.json 被修改，key：after，修改前的值：After Sales，新的值：Specifications on after-sales services
+英文翻译文件 leftNav.json 被修改，key：faq，修改前的值：FAQ，新的值：Common problems
+英文翻译文件 leftNav.json 被修改，key：about，修改前的值：About us，新的值：About MyEUShop
+英文翻译文件 leftNav.json 被修改，key：agreement，修改前的值：User agreement，新的值：User Agreement Description
+英文翻译文件 leftNav.json 被修改，key：ac，修改前的值：Alocohol&Tobacco，新的值：Disclaimer Agreement for Tobacco and Alcoholic Products
+英文翻译文件 undefined 被修改，key：onSale，修改前的值：On Sale，新的值：Flash selling
+英文翻译文件 undefined 被修改，key：buynow，修改前的值：Buy Now，新的值：Snap up now
+英文翻译文件 undefined 被修改，key：title，修改前的值：Apply for Business，新的值：Apply to become a seller
+英文翻译文件 undefined 被修改，key：chinese，修改前的值：中文，新的值：Chinese
+英文翻译文件 undefined 被修改，key：email，修改前的值：Email，新的值：Email Address
+英文翻译文件 undefined 被修改，key：checkEmail，修改前的值：Please enter the  email，新的值：Please enter your email address
+英文翻译文件 undefined 被修改，key：rightEmail，修改前的值：Please enter the correct email address，新的值：Please enter correct email address
+英文翻译文件 undefined 被修改，key：eushopEmail，修改前的值：MyEUShop's email，新的值：Email for signing up MyEUShop
+英文翻译文件 undefined 被修改，key：eushopPwd，修改前的值：MyEUShop's password，新的值：Password for signing up MyEUShop
+英文翻译文件 undefined 被修改，key：logoSize，修改前的值：Size 260x140，新的值：Picture Size 260x140
+英文翻译文件 undefined 被修改，key：bannerSize，修改前的值：Size 1140x300，新的值：Picture Size 1140x300
+英文翻译文件 undefined 被修改，key：bannerInfo，修改前的值：Banner be better!，新的值：More sales with advertising pictures
+英文翻译文件 undefined 被修改，key：rightWord，修改前的值：Please enter the password，新的值：Please enter Password
+英文翻译文件 undefined 被修改，key：shopZn，修改前的值：CN-name，新的值：Store's Chinese Name
+英文翻译文件 undefined 被修改，key：rightZn，修改前的值：Please enter the CN-name，新的值：Please enter Chinese name
+英文翻译文件 undefined 被修改，key：shopEn，修改前的值：EN-name，新的值：Store's English Name
+英文翻译文件 undefined 被修改，key：rightEn，修改前的值：Please enter the EN-name，新的值：Please enter English Name
+英文翻译文件 undefined 被修改，key：number，修改前的值：Number，新的值：Customer Service Phone
+英文翻译文件 undefined 被修改，key：rightNum，修改前的值：Please enter the number，新的值：Please enter customer service phone
+英文翻译文件 undefined 被修改，key：qq，修改前的值：QQ，新的值：Customer service QQ
+英文翻译文件 undefined 被修改，key：wechat，修改前的值：We chat，新的值：Customer service WeChat
+英文翻译文件 undefined 被修改，key：Introduce，修改前的值：Introduce，新的值：About the store
+英文翻译文件 undefined 被修改，key：logo，修改前的值：LOGO，新的值：Store's Logo
+英文翻译文件 undefined 被修改，key：rightLogo，修改前的值：Please enter the shopLogo，新的值：Please upload the store's logo
+英文翻译文件 undefined 被修改，key：banner，修改前的值：Banner，新的值：Ad picture for the store
+英文翻译文件 undefined 被修改，key：confirm，修改前的值：confirm，新的值：Comfirm
+英文翻译文件 undefined 被修改，key：cancel，修改前的值：cancel，新的值：Cancel
+英文翻译文件 undefined 被修改，key：upload，修改前的值：Click to upload，新的值：Click "Upload"

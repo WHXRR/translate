@@ -1,0 +1,32 @@
+export default {
+	register: {
+		title: 'Apply to become a seller',
+		english: 'English',
+		chinese: 'Chinese',
+		email: 'Email Address',
+		checkEmail: 'Please enter your email address',
+		rightEmail: 'Please enter correct email address',
+		eushopEmail: 'Email for signing up MyEUShop',
+		eushopPwd: 'Password for signing up MyEUShop',
+		logoSize: 'Picture Size 260x140',
+		bannerSize: 'Picture Size 1140x300',
+		bannerInfo: 'More sales with advertising pictures',
+		password: 'Password',
+		rightWord: 'Please enter Password',
+		shopZn: "Store's Chinese Name",
+		rightZn: 'Please enter Chinese name',
+		shopEn: "Store's English Name",
+		rightEn: 'Please enter English Name',
+		number: 'Customer Service Phone',
+		rightNum: 'Please enter customer service phone',
+		qq: 'Customer service QQ',
+		wechat: 'Customer service WeChat',
+		Introduce: 'About the store',
+		logo: "Store's Logo",
+		rightLogo: "Please upload the store's logo",
+		banner: 'Ad picture for the store',
+		confirm: 'Comfirm',
+		cancel: 'Cancel',
+		upload: 'Click "Upload"'
+	}
+};

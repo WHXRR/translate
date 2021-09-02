@@ -1,0 +1,2397 @@
+[
+  {
+    "key": "sale",
+    "cn": "促销",
+    "en": "On Sale",
+    "du": "Actie"
+  },
+  {
+    "key": "advance",
+    "cn": "预售",
+    "en": "Pre-sell",
+    "du": "Pre-sell"
+  },
+  {
+    "key": "seckill",
+    "cn": "秒杀",
+    "en": "Flash Sale",
+    "du": "Flash-verkoop"
+  },
+  {
+    "key": "product_code",
+    "cn": "商品编号",
+    "en": "Product Number",
+    "du": "Productnummer"
+  },
+  {
+    "key": "price",
+    "cn": "价格",
+    "en": "Price",
+    "du": "Prijs"
+  },
+  {
+    "key": "add_cart",
+    "cn": "加入购物车",
+    "en": "Add to Cart",
+    "du": "In winkelwagen"
+  },
+  {
+    "key": "largest",
+    "cn": "已到商品最大库存",
+    "en": "Already the max quantity in stock",
+    "du": "Al de maximale hoeveelheid op voorraad"
+  },
+  {
+    "key": "qouta",
+    "cn": "每单限购{qouta}件",
+    "en": "{qouta} per order",
+    "du": "{quota} per bestelling"
+  },
+  {
+    "key": "seckQouta",
+    "cn": "秒杀每单限购{qouta}件",
+    "en": "{qouta} per order for flash sale",
+    "du": "{quota} per bestelling voor flash-verkoop"
+  },
+  {
+    "key": "shoptotal",
+    "cn": "店铺合计",
+    "en": "Total stores",
+    "du": "Totaal winkels"
+  },
+  {
+    "key": "startIn",
+    "cn": "距离秒杀开始仅剩",
+    "en": "Flash sale start in",
+    "du": "Flash-verkoop begint in"
+  },
+  {
+    "key": "endIn",
+    "cn": "距离秒杀结束仅剩",
+    "en": "Flash sale end in",
+    "du": "Flash-verkoop eindigt in"
+  },
+  {
+    "key": "failure",
+    "cn": "失效",
+    "en": "Invalid",
+    "du": "Ongeldig"
+  },
+  {
+    "key": "allshop",
+    "cn": "所有店铺",
+    "en": "All stores",
+    "du": "Alle winkels"
+  },
+  {
+    "key": "senderAddress",
+    "cn": "发件地址",
+    "en": "Sender Address",
+    "du": "Adres afzender"
+  },
+  {
+    "key": "recipientAddress",
+    "cn": "收件地址",
+    "en": "Recipient Address",
+    "du": "Adres ontvanger"
+  },
+  {
+    "key": "couponmoney",
+    "cn": "优惠金额",
+    "en": "Discount Amount",
+    "du": "Kortingsbedrag"
+  },
+  {
+    "key": "free",
+    "cn": "赠",
+    "en": "Free",
+    "du": "Gratis"
+  },
+  {
+    "key": "selectInvoice",
+    "cn": "请选择发票地址",
+    "en": "Please select invoice address",
+    "du": "Kies factureringsadres"
+  },
+  {
+    "key": "cart",
+    "cn": "购物车",
+    "en": "Cart",
+    "du": "Winkelwagen"
+  },
+  {
+    "key": "confirm",
+    "cn": "订单确认",
+    "en": "Confirm",
+    "du": "Bevestigen"
+  },
+  {
+    "key": "pay",
+    "cn": "订单支付",
+    "en": "Checkout",
+    "du": "Afrekenen"
+  },
+  {
+    "key": "empty",
+    "cn": "您的购物车还没有商品",
+    "en": "No items in your cart",
+    "du": "Geen artikelen in uw winkelwagen"
+  },
+  {
+    "key": "goshopping",
+    "cn": "去逛逛",
+    "en": "Shop now",
+    "du": "Winkelen"
+  },
+  {
+    "key": "loading",
+    "cn": "正在加载中",
+    "en": "Loading",
+    "du": "Bezig met laden"
+  },
+  {
+    "key": "sendTime",
+    "cn": "派送日期",
+    "en": "Delivery Date",
+    "du": "Leverdatum"
+  },
+  {
+    "key": "addwish",
+    "cn": "加入收藏",
+    "en": "Add to wish list",
+    "du": "Voeg toe aan verlanglijst"
+  },
+  {
+    "key": "delete",
+    "cn": "删除",
+    "en": "Delete",
+    "du": "Verwijderen"
+  },
+  {
+    "key": "deletesome",
+    "cn": "批量删除",
+    "en": "Batch deletion",
+    "du": "Batch verwijderen"
+  },
+  {
+    "key": "selectall",
+    "cn": "全选",
+    "en": "All",
+    "du": "Alle"
+  },
+  {
+    "key": "choose",
+    "cn": "共计商品{all},已选择商品{select}",
+    "en": "Total goods, selected goods",
+    "du": "Totaal artikelen, geselecteerde goederen"
+  },
+  {
+    "key": "bill",
+    "cn": "合计（不含运费）",
+    "en": "Total (no freight included)",
+    "du": "Totaal (verzendkosten niet inbegrepen)"
+  },
+  {
+    "key": "save",
+    "cn": "已节省",
+    "en": "Saved",
+    "du": "Opgeslagen"
+  },
+  {
+    "key": "adt",
+    "cn": "全荷兰地区满50欧配送，非荷兰地区满65欧配送。若未满免费配送额，收取6.95欧配送费。",
+    "en": "Free delivery for goods from 50 Euro across the Netherlands and 65 Euro outside of the Netherlands. Freight of 6.95 Euro will be charged for orders under such amounts.",
+    "du": "Gratis verzending voor bestellingen vanaf 50 euro in Nederland en 65 euro buiten Nederland. Voor bestellingen onder die bedragen worden vrachtkosten van 6,95 euro in rekening gebracht."
+  },
+  {
+    "key": "go",
+    "cn": "去结算",
+    "en": "Check out",
+    "du": "Afrekenen"
+  },
+  {
+    "key": "already",
+    "cn": "已收藏",
+    "en": "Added to wish list",
+    "du": "Toegevoegd aan verlanglijst"
+  },
+  {
+    "key": "select",
+    "cn": "请选择",
+    "en": "Please select",
+    "du": "Maak keuze"
+  },
+  {
+    "key": "pleaseselectdelivery",
+    "cn": "请选择配送方式",
+    "en": "Please select the method of delivery",
+    "du": "Kies leveringsmethode"
+  },
+  {
+    "key": "pleaseselecttimerange",
+    "cn": "请选择时间段",
+    "en": "Please select the time slot",
+    "du": "Kies tijdperiode"
+  },
+  {
+    "key": "noadvancedate",
+    "cn": "限定派送日期的预售商品，对应您的地址没有派送路线",
+    "en": "There is no delivery route for the time limited pre-sell product",
+    "du": "Er is geen bezorgroute voor de tijdelijke aanbieding van het pre-sellproduct"
+  },
+  {
+    "key": "nofreshdate",
+    "cn": "限定派送日期的新鲜速派商品，对应您的地址没有派送路线",
+    "en": "There is no delivery route for the time limited fresh delivery product",
+    "du": "Er is geen bezorgroute voor de tijdelijke aanbieding van het versproduct"
+  },
+  {
+    "key": "redeemCode",
+    "cn": "兑换码",
+    "en": "Redeem Code",
+    "du": "Verzilveringscode"
+  },
+  {
+    "key": "redeem",
+    "cn": "兑换",
+    "en": "Redeem",
+    "du": "Verzilveren"
+  },
+  {
+    "key": "redeemSuccess",
+    "cn": "兑换成功",
+    "en": "Redeem Successful",
+    "du": "Verzilveren gelukt"
+  },
+  {
+    "key": "pleaseEnterRedeemCode",
+    "cn": "请输入兑换码",
+    "en": "Please enter redeem code",
+    "du": "Voer verzilveringscode in"
+  },
+  {
+    "key": "title",
+    "cn": "配送方式",
+    "en": "Method of Delivery",
+    "du": "Leveringsmethode"
+  },
+  {
+    "key": "title",
+    "cn": "预约送货",
+    "en": "Reserve the delivery date",
+    "du": "Leverdatum reserveren"
+  },
+  {
+    "key": "content1",
+    "cn": "完成信息确认，点击提交订单后，预约您的派送日期。",
+    "en": "Please confirm your order and click [Submit] to choose your delivery day.",
+    "du": "Bevestig uw bestelling en klik op [Verzenden] om uw leverdag te kiezen."
+  },
+  {
+    "key": "content2",
+    "cn": "感谢支持！",
+    "en": "Thanks for your support!",
+    "du": "Bedankt voor uw bestelling!"
+  },
+  {
+    "key": "title",
+    "cn": "预约时间",
+    "en": "Delivery Date",
+    "du": "Leverdatum"
+  },
+  {
+    "key": "placeholder",
+    "cn": "请选择预约时间",
+    "en": "Please select the delivery date",
+    "du": "Kies leverdatum"
+  },
+  {
+    "key": "content1",
+    "cn": "提前一天预约，让我们有时间为您配好货。",
+    "en": "Please reserve one day in advance to allow us to pick the goods for you.",
+    "du": "Reserveer een dag van tevoren, zodat wij uw artikelen voor u kunnen verzamelen."
+  },
+  {
+    "key": "content2",
+    "cn": "下午14:00-17:00可以提货，显示手机下单截图即可。",
+    "en": "Goods can be picked up at 14:00-17:00 p.m. by presenting the screeshot of the order placed over your phone.",
+    "du": "Goederen kunnen worden afgehaald tussen 14.00 en 17.00 uur door de schermafbeelding van de geplaatste bestelling via uw telefoon te laten zien."
+  },
+  {
+    "key": "content1",
+    "cn": "代理收货点折扣不与优惠券同时使用，且只参与欧亚商城自营正价商品",
+    "en": "The pickup point discount is for MyEUShop normal price items only, and cannot be used with the voucher at the same time",
+    "du": "De korting op het afhaalpunt is alleen voor artikelen met een normale prijs van MyEUShop en kan niet tegelijkertijd met de voucher worden gebruikt"
+  },
+  {
+    "key": "agent",
+    "cn": "请选择代理收货点",
+    "en": "Please select pick up point",
+    "du": "Kies afhaalpunt"
+  },
+  {
+    "key": "agentPoint",
+    "cn": "请选择代理收货点地址",
+    "en": "Please select pick up point adress",
+    "du": "Kies adres afhaalpunt"
+  },
+  {
+    "key": "discount",
+    "cn": "折扣",
+    "en": "Discount",
+    "du": "Korting"
+  },
+  {
+    "key": "discountRange",
+    "cn": "折扣范围：",
+    "en": "Discount Range:",
+    "du": "Kortingsbereik:"
+  },
+  {
+    "key": "allCategory",
+    "cn": "全部分类",
+    "en": "All categories",
+    "du": "Alle categorieën"
+  },
+  {
+    "key": "selectedCategories",
+    "cn": "部分分类",
+    "en": "Partial Categories",
+    "du": "Een deel van de categorieën"
+  },
+  {
+    "key": "before",
+    "cn": "请选择其他派送方式。",
+    "en": "Please select other method of delivery.",
+    "du": "Kies andere leveringsmethode."
+  },
+  {
+    "key": "noMatch",
+    "cn": "不在配送范围内，请选择其他收货地址。",
+    "en": "Address without the scope of delivery, please select other address.",
+    "du": "Adres buiten leveringsbereik, kies een ander adres."
+  },
+  {
+    "key": "timeLeft",
+    "cn": "我们会为下单时间在",
+    "en": "We will provide same-day delivery for customers placing orders",
+    "du": "We bieden levering op dezelfde dag voor klanten die"
+  },
+  {
+    "key": "timeRight",
+    "cn": "前的客户当天送达他的订单。",
+    "en": "before",
+    "du": "al eerder bestellingen hebben geplaatst"
+  },
+  {
+    "key": "postLeft",
+    "cn": "目前仅支持邮编为：",
+    "en": "with the following",
+    "du": "met de volgende"
+  },
+  {
+    "key": "postMiddle",
+    "cn": "和",
+    "en": "Only support regions",
+    "du": "Momenteel worden alleen de volgende postcodes ondersteund"
+  },
+  {
+    "key": "postRight",
+    "cn": "的地区。更多支持地区会陆续开放。",
+    "en": "More regions will be supported.",
+    "du": "Meer postcodes zullen worden ondersteund."
+  },
+  {
+    "key": "title",
+    "cn": "直邮中国",
+    "en": "SEND directly to CN",
+    "du": "STUUR direct naar CN"
+  },
+  {
+    "key": "content",
+    "cn": "直接代发是直接代发到中国。具体是下单成功后，我们会将专业打包好的商品直接配送到您填写的中国收件人的地址。您可以在NLE网站追踪该包裹的物流状态。",
+    "en": "Send directly to CN: After an order is placed, we will deliver the packed goods directly to the Chinese recipient address you provide. You can track the order on NLE website.",
+    "du": "Stuur direct naar CN: Nadat een bestelling is geplaatst, leveren we de verpakte goederen rechtstreeks af op het Chinese ontvangstadres dat u opgeeft. U kunt de order volgen op de NLE-website."
+  },
+  {
+    "key": "title",
+    "cn": "中转代发",
+    "en": "Send indirectly to CN",
+    "du": "Stuur indirect naar CN"
+  },
+  {
+    "key": "content1",
+    "cn": "中转代发是先送到荷兰地址再代发到中国。具体是下单成功后，系统会自动预约最近的送货时间，我们将商品配送到您的荷兰地址。您收到商品后，可以在“订单详情”里下载寄到中国的物流面单，然后点击“预约取件”，预约NLE司机上门取件。您可以在NLE网站查询该包裹的物流。",
+    "en": "Send indirectly to CN: The goods will be sent to the Netherlands address before to China. After an order is placed, the system will automatically select a latest delivery date, and we will deliver the goods to your Netherlands address. After you receive the goods, you can go to \"My Orders\" to download the sending label for delivery to China, and then click \"Pick-up Date\" to get a NLE driver to pick up your goods at your door. You can track your order on NLE website.",
+    "du": "Stuur indirect naar CN: De goederen worden eerst naar het Nederlandse adres verstuurd en vervolgens naar China. Nadat een bestelling is geplaatst, kiest het systeem automatisch de dichtstbijzijnde leverdatum en wij leveren de goederen vervolgens op uw Nederlandse adres. Nadat u de goederen hebt ontvangen, kunt u via \"Mijn Bestellingen\" het verzendetiket voor levering aan China downloaden. Klik vervolgens op \"Afhaaldatum\" om een afspraak te maken voor een NLE-chauffeur om uw goederen bij u op te halen. U kunt de order volgen op de NLE-website."
+  },
+  {
+    "key": "title",
+    "cn": "商品详情",
+    "en": "Product Details",
+    "du": "Productgegevens"
+  },
+  {
+    "key": "edit",
+    "cn": "修改购物车",
+    "en": "Modify the cart",
+    "du": "Winkelwagen aanpassen"
+  },
+  {
+    "key": "voucher",
+    "cn": "优惠券",
+    "en": "Vouchers",
+    "du": "Vouchers"
+  },
+  {
+    "key": "available",
+    "cn": "当前可用",
+    "en": "Currently available",
+    "du": "Nu verkrijgbaar"
+  },
+  {
+    "key": "repeat",
+    "cn": "不能重复选择优惠券",
+    "en": "Vouchers cannot be chosen for a second time",
+    "du": "Vouchers kunnen niet voor een tweede keer worden geselecteerd"
+  },
+  {
+    "key": "shippingInfo",
+    "cn": "派件信息",
+    "en": "Delivery information",
+    "du": "Leveringsinformatie"
+  },
+  {
+    "key": "invoiceInfo",
+    "cn": "发票信息",
+    "en": "Invoice Information",
+    "du": "Factuurinformatie"
+  },
+  {
+    "key": "title",
+    "cn": "订单备注",
+    "en": "Order remarks",
+    "du": "Opmerkingen over bestelling"
+  },
+  {
+    "key": "content",
+    "cn": "请不要备注预约送货时间，具体时间视单量和路况而定。如有问题请联系客服。",
+    "en": "Please do not state the pick-up date in the remarks, as the actual delivery is dependent on the quantity of your oder and the road conditions. Any questions, please contact Customer Service.",
+    "du": "Vermeld de afhaaldatum niet in de opmerkingen, aangezien de daadwerkelijke levering afhankelijk is van de hoeveelheid van uw bestelling en de omstandigheden onderweg. Neem voor vragen contact op met Klantenservice."
+  },
+  {
+    "key": "line",
+    "cn": "路线",
+    "en": "Route",
+    "du": "Route"
+  },
+  {
+    "key": "shipping",
+    "cn": "运费",
+    "en": "Freight",
+    "du": "Vrachtkosten"
+  },
+  {
+    "key": "tax",
+    "cn": "税费",
+    "en": "Tax",
+    "du": "Belastingen"
+  },
+  {
+    "key": "address",
+    "cn": "请选择地址",
+    "en": "please select the address",
+    "du": "Kies het adres"
+  },
+  {
+    "key": "bag",
+    "cn": "包装袋",
+    "en": "Packing fee",
+    "du": "Verpakkingskosten"
+  },
+  {
+    "key": "submit",
+    "cn": "提交订单",
+    "en": "Submit",
+    "du": "Verzenden"
+  },
+  {
+    "key": "shouldPay",
+    "cn": "应付",
+    "en": "Total to pay",
+    "du": "Totaal te betalen"
+  },
+  {
+    "key": "cantChangeTime",
+    "cn": "预约时间选择好之后不可更改",
+    "en": "The delivery date cannot be changed upon being selected",
+    "du": "Als de leverdatum eenmaal is geselecteerd, kan deze niet meer worden gewijzigd"
+  },
+  {
+    "key": "orderNow",
+    "cn": "确定下单",
+    "en": "Order Now",
+    "du": "Bestellen"
+  },
+  {
+    "key": "next",
+    "cn": "下一步将跳到付款页面",
+    "en": "Next will go to the checkout page",
+    "du": "Met volgende gaat u naar de betalingspagina"
+  },
+  {
+    "key": "senderInfo",
+    "cn": "发件信息",
+    "en": "Sender information",
+    "du": "Informatie afzender"
+  },
+  {
+    "key": "recipientInfo",
+    "cn": "收件信息",
+    "en": "Recipient information",
+    "du": "Informatie ontvanger"
+  },
+  {
+    "key": "onlabel",
+    "cn": "面单上显示的信息",
+    "en": "Information on the label",
+    "du": "Informatie op het etiket"
+  },
+  {
+    "key": "limit",
+    "cn": "当前购物车里的商品内容物超出单个包裹可邮寄范围，请您修改购物车商品数量。",
+    "en": "The quantity of the goods in the current cart exceeds that required for a single order. Please modify the quantity of goods in the cart.",
+    "du": "De inhoud van deze winkelwagen overschrijdt de hoeveelheid die in één bestelling kan worden verzonden. Wijzig het aantal artikelen in de winkelwagen."
+  },
+  {
+    "key": "name",
+    "cn": "姓名",
+    "en": "Name",
+    "du": "Naam"
+  },
+  {
+    "key": "phone",
+    "cn": "电话",
+    "en": "Phone",
+    "du": "Tel."
+  },
+  {
+    "key": "postcode",
+    "cn": "邮编",
+    "en": "Postcode",
+    "du": "Postcode"
+  },
+  {
+    "key": "address",
+    "cn": "地址",
+    "en": "Address",
+    "du": "Adres"
+  },
+  {
+    "key": "city",
+    "cn": "城市",
+    "en": "City",
+    "du": "Plaats"
+  },
+  {
+    "key": "country",
+    "cn": "国家",
+    "en": "Country",
+    "du": "Land"
+  },
+  {
+    "key": "haveYourOrderPleasePayment",
+    "cn": "您的订单已生成，请尽快完成支付！",
+    "en": "Your order is generated now, please check out as soon as possible!",
+    "du": "Uw bestelling is nu aangemaakt, betaal deze zo snel mogelijk!"
+  },
+  {
+    "key": "shouldPaymentMoney",
+    "cn": "应付金额",
+    "en": "Amount payable",
+    "du": "Te betalen bedrag"
+  },
+  {
+    "key": "orderDetail",
+    "cn": "订单详情",
+    "en": "Order Details",
+    "du": "Ordergegevens"
+  },
+  {
+    "key": "orderCode",
+    "cn": "订单编号",
+    "en": "Order Number",
+    "du": "Ordernummer"
+  },
+  {
+    "key": "deliveryAddress",
+    "cn": "派送地址",
+    "en": "Delivery Address",
+    "du": "Afleveradres"
+  },
+  {
+    "key": "tel",
+    "cn": "联系方式",
+    "en": "Telephone Number",
+    "du": "Telefoonnummer"
+  },
+  {
+    "key": "deliveryMethods",
+    "cn": "派送方式",
+    "en": "Method of Delivery",
+    "du": "Leveringsmethode"
+  },
+  {
+    "key": "selectPayStyle",
+    "cn": "请选择付款方式",
+    "en": "Please select method of payment",
+    "du": "Kies betaalmethode"
+  },
+  {
+    "key": "wxPayment",
+    "cn": "微信支付",
+    "en": "Pay with Wechat",
+    "du": "Betalen met Wechat"
+  },
+  {
+    "key": "wxText",
+    "cn": "使用微信扫一扫, 扫描二维码完成支付",
+    "en": "Use WeChat to scan the QR code to complete the payment",
+    "du": "Gebruik WeChat om de QR-code te scannen en de betaling af te ronden"
+  },
+  {
+    "key": "timeOver",
+    "cn": "时效性截止：六分钟后失效",
+    "en": "Expiry in 6 minutes",
+    "du": "Vervalt over 6 minuten"
+  },
+  {
+    "key": "currentTime",
+    "cn": "当前时间",
+    "en": "Current time",
+    "du": "Huidige tijd"
+  },
+  {
+    "key": "overTime",
+    "cn": "截止时间",
+    "en": "Deadline",
+    "du": "Deadline"
+  },
+  {
+    "key": "productTotal",
+    "cn": "商品总价",
+    "en": "Total price",
+    "du": "Totale prijs"
+  },
+  {
+    "key": "handling",
+    "cn": "手续费",
+    "en": "Handling fee",
+    "du": "Administratiekosten"
+  },
+  {
+    "key": "payTotal",
+    "cn": "合计金额",
+    "en": "Total amount",
+    "du": "Totaalbedrag"
+  },
+  {
+    "key": "alipayPayment",
+    "cn": "支付宝付款",
+    "en": "Pay by Alipay",
+    "du": "Betalen met Alipay"
+  },
+  {
+    "key": "alipayText",
+    "cn": "使用支付宝扫一扫, 扫描二维码完成支付",
+    "en": "Use Alipay to scan the QR code to complete the payment",
+    "du": "Gebruik Alipay om de QR-code te scannen en de betaling af te ronden"
+  },
+  {
+    "key": "balancePayment",
+    "cn": "账号余额付款",
+    "en": "Pay with account balance",
+    "du": "Betalen met rekeningsaldo"
+  },
+  {
+    "key": "balanceAbout",
+    "cn": "请确认您支付后，账上余额还留有20欧以上，这20欧是NLE邮寄包裹的押金，无法用于支付，谢谢您的理解！",
+    "en": "please confirm the balance is at least 20 euro. NLE will apply this as a deposit and can therefore not be used. Thank you for your understanding!",
+    "du": "Controleer of het saldo minimaal 20 euro is. NLE gebruikt dit als aanbetaling en het bedrag kan dus niet worden gebruikt. Bedankt voor uw begrip!"
+  },
+  {
+    "key": "AccountBalance",
+    "cn": "账户余额",
+    "en": "Account Balance",
+    "du": "Rekeningsaldo"
+  },
+  {
+    "key": "payImmediately",
+    "cn": "立即支付",
+    "en": "Pay Now",
+    "du": "Betalen"
+  },
+  {
+    "key": "iDealPayment",
+    "cn": "iDeal付款",
+    "en": "Pay with iDEAL",
+    "du": "Betalen met iDEAL"
+  },
+  {
+    "key": "noshipping",
+    "cn": "请选择派件地址",
+    "en": "Please select delivery address",
+    "du": "Kies het afleveradres"
+  },
+  {
+    "key": "nosender",
+    "cn": "请选择发件信息",
+    "en": "Please select sender information",
+    "du": "Kies informatie afzender"
+  },
+  {
+    "key": "norecipient",
+    "cn": "请选择收件信息",
+    "en": "Please select recipient information",
+    "du": "Kies informatie ontvanger"
+  },
+  {
+    "key": "noDelivery",
+    "cn": "请选择派送方式",
+    "en": "Please select method of delivery",
+    "du": "Kies leveringsmethode"
+  },
+  {
+    "key": "noline",
+    "cn": "请选择路线",
+    "en": "Please select the route",
+    "du": "Kies de route"
+  },
+  {
+    "key": "Paying",
+    "cn": "正在支付中",
+    "en": "Paying",
+    "du": "Bezig met betalen"
+  },
+  {
+    "key": "paymentsuccess",
+    "cn": "支付成功",
+    "en": "Payment successful",
+    "du": "Betaling gelukt"
+  },
+  {
+    "key": "Paymenttimeout",
+    "cn": "支付超时，请重新刷新页面",
+    "en": "Payment timeout, please refresh the page",
+    "du": "Time-out betaling, vernieuw de pagina"
+  },
+  {
+    "key": "addressWarn",
+    "cn": "当前地址目前无可预约日期，请切换地址",
+    "en": "All delveries are fully booked, please try a new address",
+    "du": "Alle leveringen zijn volgeboekt, probeer een nieuw adres"
+  },
+  {
+    "key": "selectDate",
+    "cn": "请选择预约派送日期",
+    "en": "Please select the delivery date",
+    "du": "Kies leverdatum"
+  },
+  {
+    "key": "pleaseSelectDate",
+    "cn": "请选择派送日期",
+    "en": "Please select the delivery date",
+    "du": "Kies leverdatum"
+  },
+  {
+    "key": "excess",
+    "cn": "已约满",
+    "en": "Full",
+    "du": "Vol"
+  },
+  {
+    "key": "pickup",
+    "cn": "可预约",
+    "en": "Available",
+    "du": "Beschikbaar"
+  },
+  {
+    "key": "notLine",
+    "cn": "无派送",
+    "en": "Non",
+    "du": "Geen bezorging"
+  },
+  {
+    "key": "choose",
+    "cn": "已选择",
+    "en": "Already selected",
+    "du": "Al gekozen"
+  },
+  {
+    "key": "comfirm",
+    "cn": "确认日期",
+    "en": "Confirm the date",
+    "du": "Bevestig datum"
+  },
+  {
+    "key": "myaccount",
+    "cn": "我的账户",
+    "en": "My Account",
+    "du": "Mijn Account"
+  },
+  {
+    "key": "myorder",
+    "cn": "我的订单",
+    "en": "My Orders",
+    "du": "Mijn Bestellingen"
+  },
+  {
+    "key": "invoiceList",
+    "cn": "发票列表",
+    "en": "List of invoices",
+    "du": "Overzicht facturen"
+  },
+  {
+    "key": "myvouchers",
+    "cn": "我的卡券包",
+    "en": "My Vouchers",
+    "du": "Mijn Vouchers"
+  },
+  {
+    "key": "messages",
+    "cn": "消息通知",
+    "en": "Messages",
+    "du": "Berichten"
+  },
+  {
+    "key": "myaddress",
+    "cn": "我的地址",
+    "en": "My Address",
+    "du": "Mijn Adres"
+  },
+  {
+    "key": "reciveAddress",
+    "cn": "派件地址",
+    "en": "Delivery Address",
+    "du": "Afleveradres"
+  },
+  {
+    "key": "invoiceinformation",
+    "cn": "发票地址",
+    "en": "Invoice Address",
+    "du": "Factuuradres"
+  },
+  {
+    "key": "orderrefund",
+    "cn": "我的退款",
+    "en": "My Refund",
+    "du": "Mijn Terugbetaling"
+  },
+  {
+    "key": "wishList",
+    "cn": "我的收藏",
+    "en": "My Wish List",
+    "du": "Mijn Verlanglijst"
+  },
+  {
+    "key": "password",
+    "cn": "修改密码",
+    "en": "Change Password",
+    "du": "Wachtwoord wijzigen"
+  },
+  {
+    "key": "logout",
+    "cn": "退出账户",
+    "en": "Log out",
+    "du": "Uitloggen"
+  },
+  {
+    "key": "noorder",
+    "cn": "暂无订单",
+    "en": "No order now",
+    "du": "Geen bestellingen"
+  },
+  {
+    "key": "nowish",
+    "cn": "暂无收藏",
+    "en": "Nothing in the wish list now",
+    "du": "Niets op het verlanglijstje"
+  },
+  {
+    "key": "suretologout",
+    "cn": "确定要退出登录吗?",
+    "en": "Are you sure to log out?/",
+    "du": "Weet u zeker dat u wilt uitloggen?"
+  },
+  {
+    "key": "sendername",
+    "cn": "发件姓名",
+    "en": "Sender Name",
+    "du": "Naam afzender"
+  },
+  {
+    "key": "recipientname",
+    "cn": "收件姓名",
+    "en": "Recipient Name",
+    "du": "Naam ontvanger"
+  },
+  {
+    "key": "emailPlaceholder",
+    "cn": "请输入E-mail",
+    "en": "Please enter E-mail address",
+    "du": "Voer e-mailadres in"
+  },
+  {
+    "key": "hot",
+    "cn": "热门",
+    "en": "Hot",
+    "du": "Hot"
+  },
+  {
+    "key": "editinfo",
+    "cn": "修改个人资料",
+    "en": "Modify your profile",
+    "du": "Uw profiel wijzigen"
+  },
+  {
+    "key": "welcome",
+    "cn": "你好,欢迎来欧亚商城~",
+    "en": "Hi, welcome to MyEUShop",
+    "du": "Hallo! welkom bij MyEUShop"
+  },
+  {
+    "key": "clientnumber",
+    "cn": "客户编号",
+    "en": "Customer Number",
+    "du": "Klantnummer"
+  },
+  {
+    "key": "balance",
+    "cn": "余额",
+    "en": "Balance",
+    "du": "Saldo"
+  },
+  {
+    "key": "wishproduct",
+    "cn": "收藏商品",
+    "en": "Items in wish list",
+    "du": "Artikelen op verlanglijst"
+  },
+  {
+    "key": "wishshop",
+    "cn": "收藏商家",
+    "en": "Brands in wish list",
+    "du": "Merken op verlanglijst"
+  },
+  {
+    "key": "shipaddress",
+    "cn": "收货地址",
+    "en": "Recipient Address",
+    "du": "Adres ontvanger"
+  },
+  {
+    "key": "unpaid",
+    "cn": "待付款",
+    "en": "To be paid",
+    "du": "Te betalen"
+  },
+  {
+    "key": "unreciived",
+    "cn": "待收货",
+    "en": "To be received",
+    "du": "Te ontvangen"
+  },
+  {
+    "key": "unevaluated",
+    "cn": "待评价",
+    "en": "To be commented",
+    "du": "Te beoordelen"
+  },
+  {
+    "key": "refund",
+    "cn": "退款",
+    "en": "Refund",
+    "du": "Terugbetaling"
+  },
+  {
+    "key": "lastestorder",
+    "cn": "最新订单",
+    "en": "Latest orders",
+    "du": "Meest recente bestellingen"
+  },
+  {
+    "key": "viewmore",
+    "cn": "查看更多",
+    "en": "View more",
+    "du": "Meer bekijken"
+  },
+  {
+    "key": "editaccount",
+    "cn": "编辑个人账户",
+    "en": "Edit your account",
+    "du": "Uw account wijzigen"
+  },
+  {
+    "key": "photo",
+    "cn": "头像",
+    "en": "Profile picture",
+    "du": "Profielfoto"
+  },
+  {
+    "key": "birthday",
+    "cn": "出生日期",
+    "en": "Date of Birth",
+    "du": "Geboortedatum"
+  },
+  {
+    "key": "door",
+    "cn": "门牌号",
+    "en": "House Number",
+    "du": "Huisnummer"
+  },
+  {
+    "key": "street",
+    "cn": "街道",
+    "en": "Subdistrict",
+    "du": "Straat"
+  },
+  {
+    "key": "continueshopping",
+    "cn": "我还要买",
+    "en": "Buy more",
+    "du": "Verder met winkelen"
+  },
+  {
+    "key": "makeapp",
+    "cn": "重新预约",
+    "en": "Select another delivery date",
+    "du": "Een andere leverdatum kiezen"
+  },
+  {
+    "key": "cancelapp",
+    "cn": "取消预约",
+    "en": "Cancel reservation",
+    "du": "Reservering annuleren"
+  },
+  {
+    "key": "expressdetail",
+    "cn": "查看物流",
+    "en": "Tracking order",
+    "du": "Bestelling volgen"
+  },
+  {
+    "key": "agree",
+    "cn": "同意",
+    "en": "Accept",
+    "du": "Akkoord"
+  },
+  {
+    "key": "refundnotice",
+    "cn": "退款须知",
+    "en": "Refund Notices",
+    "du": "Opmerkingen terugbetaling"
+  },
+  {
+    "key": "refundnoticecontent1",
+    "cn": "①如若您的订单使用了优惠券，优惠券无法为您退还。",
+    "en": "①If a voucher is used for your order, the voucher cannot be returned to you.",
+    "du": "① Als voor uw bestelling een voucher is gebruikt, kan deze niet aan u worden geretourneerd."
+  },
+  {
+    "key": "refundnoticecontent2",
+    "cn": "②如若您使用支付宝或微信支付，由于手续费是第三方平台收取，手续费将不会退还。",
+    "en": "②If you use Alipay or WeChat to pay, the handling fee will not be refunded because the it is charged by a third-party platform.",
+    "du": "②Als u Alipay of WeChat gebruikt om te betalen, worden de administratiekosten niet terugbetaald omdat deze in rekening worden gebracht door een platform van een derde partij."
+  },
+  {
+    "key": "refundnoticecontent3",
+    "cn": "③申请退款后，客服将为您及时审核退款，财务将在2-5个工作日退款。",
+    "en": "③After you apply for a refund, the Customer Service will review the refund for you in time, and the Finance will refund you within 2-5 working days.",
+    "du": "③Nadat u een terugbetaling hebt aangevraagd, zal de klantenservice de terugbetaling tijdig voor u beoordelen, en wordt het bedrag binnen 2-5 werkdagen terugbetaald."
+  },
+  {
+    "key": "refundnoticecontent4",
+    "cn": "④更多退款详细请查看售后服务或咨询客服。",
+    "en": "④For more information on refund, please check after-sales services or consult Customer Service.",
+    "du": "④Neem voor meer informatie over terugbetaling contact op met de klantenservice."
+  },
+  {
+    "key": "ordertime",
+    "cn": "下单时间",
+    "en": "Time of order",
+    "du": "Tijd bestelling geplaatst"
+  },
+  {
+    "key": "deleteorder",
+    "cn": "删除订单",
+    "en": "Delete order",
+    "du": "Bestelling verwijderen"
+  },
+  {
+    "key": "commentorder",
+    "cn": "立即评价",
+    "en": "Comment Now",
+    "du": "Opmerking plaatsen"
+  },
+  {
+    "key": "downloadinvoice",
+    "cn": "下载发票",
+    "en": "Invoice downloading",
+    "du": "Factuur downloaden"
+  },
+  {
+    "key": "immediatepayment",
+    "cn": "立即付款",
+    "en": "Pay Now",
+    "du": "Betalen"
+  },
+  {
+    "key": "cancelorder",
+    "cn": "取消订单",
+    "en": "Cancel order",
+    "du": "Bestelling annuleren"
+  },
+  {
+    "key": "applyforreturn",
+    "cn": "申请退款",
+    "en": "Apply for Refund",
+    "du": "Verzoek om terugbetaling"
+  },
+  {
+    "key": "refunddetails",
+    "cn": "退款详情",
+    "en": "Refund details",
+    "du": "Gegevens terugbetaling"
+  },
+  {
+    "key": "allorders",
+    "cn": "全部订单",
+    "en": "All orders",
+    "du": "Alle bestellingen"
+  },
+  {
+    "key": "pleaseinputorder",
+    "cn": "输入订单号",
+    "en": "Enter order number",
+    "du": "Ordernummer invoeren"
+  },
+  {
+    "key": "paymentresttime",
+    "cn": "支付剩余时间",
+    "en": "Remaining time for payment",
+    "du": "Resterende tijd voor betaling"
+  },
+  {
+    "key": "timeover",
+    "cn": "支付超时, 订单已取消",
+    "en": "Payment timeout, order cancelled",
+    "du": "Time-out betaling, bestelling geannuleerd"
+  },
+  {
+    "key": "appointment",
+    "cn": "预约取件",
+    "en": "Pickup Date",
+    "du": "Afhaaldatum"
+  },
+  {
+    "key": "cancelpickup",
+    "cn": "取消取件",
+    "en": "Cancel Pickup",
+    "du": "Afhalen annuleren"
+  },
+  {
+    "key": "paid",
+    "cn": "付款",
+    "en": "Checkout",
+    "du": "Afrekenen"
+  },
+  {
+    "key": "distance",
+    "cn": "距离你",
+    "en": "away from you",
+    "du": "Onderweg"
+  },
+  {
+    "key": "delivering",
+    "cn": "派送",
+    "en": "Delivery",
+    "du": "Bericht levering"
+  },
+  {
+    "key": "delivered",
+    "cn": "签收",
+    "en": "Sign for acknowledgement of receipt",
+    "du": "Onderteken voor ontvangstbevestiging"
+  },
+  {
+    "key": "postnlDelivery",
+    "cn": "快递单号",
+    "en": "Tracking Number",
+    "du": "Trackingnummer"
+  },
+  {
+    "key": "deliverystyle",
+    "cn": "送货方式",
+    "en": "Method of Delivery",
+    "du": "Leveringsmethode"
+  },
+  {
+    "key": "thegoodsstyle",
+    "cn": "取货方式",
+    "en": "Method of Pick-up",
+    "du": "Afhaalmethode"
+  },
+  {
+    "key": "expresscode",
+    "cn": "物流编号",
+    "en": "Tracking Number",
+    "du": "Trackingnummer"
+  },
+  {
+    "key": "havepaymentmoney",
+    "cn": "实付金额",
+    "en": "Actual Amount",
+    "du": "Betaald bedrag"
+  },
+  {
+    "key": "track",
+    "cn": "物流追踪",
+    "en": "Tracking order",
+    "du": "Bestelling volgen"
+  },
+  {
+    "key": "time",
+    "cn": "时间",
+    "en": "Time",
+    "du": "Tijd"
+  },
+  {
+    "key": "progress",
+    "cn": "地点与工作进度",
+    "en": "Location and work progress",
+    "du": "Locatie en voortgang"
+  },
+  {
+    "key": "noexpressinformation",
+    "cn": "暂无物流",
+    "en": "No trackiing results",
+    "du": "Geen trackingresultaten"
+  },
+  {
+    "key": "globalnumber",
+    "cn": "国际单号",
+    "en": "Tracking Number (International Express)",
+    "du": "Trackingnummer (internationaal)"
+  },
+  {
+    "key": "downloadlabel",
+    "cn": "下载面单",
+    "en": "Download the label",
+    "du": "Download etiket"
+  },
+  {
+    "key": "warehouseaddress",
+    "cn": "仓库地址",
+    "en": "Warehouse Address",
+    "du": "Adres magazijn"
+  },
+  {
+    "key": "orderdelivery2",
+    "cn": "下午14:00-18:00可以提货，显示手机下单截图即可。",
+    "en": "Goods can be picked up at 14:00-18:00 p.m. by presenting the screeshot of the order placed over your phone.",
+    "du": "Goederen kunnen worden afgehaald tussen 14:00-18:00 uur door de schermafbeelding van de geplaatste bestelling via uw telefoon te laten zien."
+  },
+  {
+    "key": "mycomment",
+    "cn": "我的评价",
+    "en": "My comments",
+    "du": "Mijn opmerkingen"
+  },
+  {
+    "key": "ordercoment1",
+    "cn": "亲，我怎么样？给我个评价吧！",
+    "en": "Hello dear, how about giving me an evaluation！",
+    "du": "Beste klant, kunt u mij een beoordeling geven?"
+  },
+  {
+    "key": "invoicenumber",
+    "cn": "发票号",
+    "en": "Invoice number",
+    "du": "Factuurnummer"
+  },
+  {
+    "key": "batchdownload",
+    "cn": "批量下载",
+    "en": "Batch downloading",
+    "du": "Batch downloaden"
+  },
+  {
+    "key": "timerange",
+    "cn": "时间范围",
+    "en": "Time Slot",
+    "du": "Tijdperiode"
+  },
+  {
+    "key": "invoicevalue",
+    "cn": "开票金额",
+    "en": "Invoice Value",
+    "du": "Waarde factuur"
+  },
+  {
+    "key": "inverse",
+    "cn": "反选",
+    "en": "Invert Selection",
+    "du": "Keuze omdraaien"
+  },
+  {
+    "key": "operation",
+    "cn": "操作",
+    "en": "Operation",
+    "du": "Handeling"
+  },
+  {
+    "key": "mymessage",
+    "cn": "我的消息",
+    "en": "My Messages",
+    "du": "Mijn Berichten"
+  },
+  {
+    "key": "allmessage",
+    "cn": "全部消息",
+    "en": "All messages",
+    "du": "Alle berichten"
+  },
+  {
+    "key": "systemmessage",
+    "cn": "系统消息",
+    "en": "System Message",
+    "du": "Systeeminformatie"
+  },
+  {
+    "key": "customermessage",
+    "cn": "客服消息",
+    "en": "Customer service",
+    "du": "Klantenservice"
+  },
+  {
+    "key": "ordermessage",
+    "cn": "下单消息",
+    "en": "Order",
+    "du": "Bericht bestelling"
+  },
+  {
+    "key": "expressmessage",
+    "cn": "物流消息",
+    "en": "Delivery",
+    "du": "Bericht levering"
+  },
+  {
+    "key": "shopmessage",
+    "cn": "商家消息",
+    "en": "Seller",
+    "du": "Verkoper"
+  },
+  {
+    "key": "cartmessage",
+    "cn": "购物车消息",
+    "en": "Cart",
+    "du": "Winkelwagen"
+  },
+  {
+    "key": "refundlist",
+    "cn": "退款列表",
+    "en": "List of refunds",
+    "du": "Overzicht terugbetalingen"
+  },
+  {
+    "key": "returnreason",
+    "cn": "退款原因",
+    "en": "Refund Reason",
+    "du": "Reden voor terugbetaling"
+  },
+  {
+    "key": "submitapplyfor",
+    "cn": "提交申请",
+    "en": "Submit application",
+    "du": "Verzoek verzenden"
+  },
+  {
+    "key": "returnsuccess",
+    "cn": "退款成功",
+    "en": "Refund Successfully",
+    "du": "Terugbetaling gelukt"
+  },
+  {
+    "key": "returnmoney",
+    "cn": "退款金额",
+    "en": "Refund amount",
+    "du": "Bedrag terugbetaling"
+  },
+  {
+    "key": "enteryouaccoundpleaselook",
+    "cn": "将打入您的账户，请注意查收",
+    "en": "please check",
+    "du": "Controleer"
+  },
+  {
+    "key": "therefundcheckisnotapproved",
+    "cn": "退款审核不通过",
+    "en": "Refund Rejected",
+    "du": "Terugbetaling geweigerd"
+  },
+  {
+    "key": "approvalofrefund",
+    "cn": "退款审核通过",
+    "en": "Refund accepted",
+    "du": "Terugbetaling goedgekeurd"
+  },
+  {
+    "key": "ifshopagree",
+    "cn": "如果商家同意",
+    "en": "If accepted by the Seller,",
+    "du": "Indien de terugbetaling wordt goedgekeurd door de Verkoper,"
+  },
+  {
+    "key": "sevendealtoyoureturn",
+    "cn": "将在7天内处理您的退款",
+    "en": "the refund will be handled within 7 days",
+    "du": "wordt deze binnen 7 dagen verwerkt"
+  },
+  {
+    "key": "ifshoprefuse",
+    "cn": "如果商家拒绝",
+    "en": "If the refund is rejected by the Seller,",
+    "du": "Als de terugbetaling wordt geweigerd door de Verkoper,"
+  },
+  {
+    "key": "needtoyoucontactservice",
+    "cn": "将需要您联系客服了解详情",
+    "en": "you are required to contact Customer Service",
+    "du": "moet u contact opnemen met de klantenservice"
+  },
+  {
+    "key": "ifshopernodeal",
+    "cn": "如果商家未处理",
+    "en": "If tue refund is not handled by the Seller,",
+    "du": "Als de terugbetaling niet wordt verwerkt door de Verkoper,"
+  },
+  {
+    "key": "youcanapplyforcustomer",
+    "cn": "您可以申请客服介入",
+    "en": "you may contact customer service",
+    "du": "kunt u contact opnemen met de klantenservice"
+  },
+  {
+    "key": "applyforservice",
+    "cn": "申请服务",
+    "en": "Apply for service",
+    "du": "Contact opnemen met klantenservice"
+  },
+  {
+    "key": "returninstructions",
+    "cn": "退款说明",
+    "en": "Refund notices",
+    "du": "Opmerkingen terugbetaling"
+  },
+  {
+    "key": "shopinstructions",
+    "cn": "商家说明",
+    "en": "Seller description",
+    "du": "Beschrijving verkoper"
+  },
+  {
+    "key": "applyfortime",
+    "cn": "申请时间",
+    "en": "Time of application",
+    "du": "Tijdstip van verzoek"
+  },
+  {
+    "key": "wishlist",
+    "cn": "收藏列表",
+    "en": "List of items in wish list",
+    "du": "Overzicht artikelen op verlanglijst"
+  },
+  {
+    "key": "suretodeletewish",
+    "cn": "是否确认取消收藏",
+    "en": "Are you sure to remove it from wish list?",
+    "du": "Weet u zeker dat u dit van de verlanglijst wilt verwijderen?"
+  },
+  {
+    "key": "selectRefund",
+    "cn": "选择退款商品",
+    "en": "Select product to refund",
+    "du": "Kies artikel waarvoor u om terugbetaling verzoekt"
+  },
+  {
+    "key": "goodsCanNotRefund",
+    "cn": "该商品不在退款范围内",
+    "en": "Unable to refund",
+    "du": "Kan niet worden terugbetaald"
+  },
+  {
+    "key": "pleaseSelectRefund",
+    "cn": "请选择退款商品",
+    "en": "Please select product to refund",
+    "du": "Kies artikel waarvoor u om terugbetaling verzoekt"
+  },
+  {
+    "key": "refundMethod",
+    "cn": "退款方式",
+    "en": "Refund Methods",
+    "du": "Terugbetalingsmethodes"
+  },
+  {
+    "key": "plaseSelectMethod",
+    "cn": "选择退款方式",
+    "en": "Select refund method",
+    "du": "Terugbetalingsmethode kiezen"
+  },
+  {
+    "key": "bankRefund",
+    "cn": "银行卡退款",
+    "en": "Bank transfer",
+    "du": "Bankoverschrijving"
+  },
+  {
+    "key": "cashRefund",
+    "cn": "充值券退款",
+    "en": "Rechargeable vouchers",
+    "du": "Cadeaukaart"
+  },
+  {
+    "key": "bankNo",
+    "cn": "银行卡号",
+    "en": "Bank card number",
+    "du": "Nummer bankpas"
+  },
+  {
+    "key": "bankInfo",
+    "cn": "请保证银行卡的姓名和银行卡对应，否则无法退款成功",
+    "en": "Please ensure the name you entered is the same one for the bank card, otherwise, the refund may fail.",
+    "du": "Zorg ervoor dat de naam die u hebt ingevoerd hetzelfde is als op de bankpas, anders kan de terugbetaling mislukken."
+  },
+  {
+    "key": "bankName",
+    "cn": "银行卡姓名",
+    "en": "Name for the bank card",
+    "du": "Naam op bankpas"
+  },
+  {
+    "key": "maxRefund",
+    "cn": "最多填写",
+    "en": "Enter amount no more than",
+    "du": "Maximumbedrag in te vullen"
+  },
+  {
+    "key": "shippingFee",
+    "cn": "，退款金额不包含邮费",
+    "en": "The refunded amount will not include handling fee",
+    "du": "Het terugbetaalde bedrag is exclusief verzendkosten"
+  },
+  {
+    "key": "selectBank",
+    "cn": "选择银行卡退款，十个工作日审核退款",
+    "en": "Refund to bank account: We will review and refund money to your bank account within 10 working days.",
+    "du": "Terugbetaling naar bankrekening: We beoordelen het verzoek en maken het geld binnen 10 werkdagen over naar uw bankrekening."
+  },
+  {
+    "key": "selectCash",
+    "cn": "选择充值券退款，审核通过后，将退等值充值券发放至客户的卡券包。充值券适用于正价商品和促销商品，无最低消费金额，通常2个工作日内审核退款",
+    "en": "Refund with rechargeable voucher: we will review and send a rechargeable voucher equivalent to the refunded amount to your vouchers. The rechargeable voucher is available to be used on all products with no minimum spending limit. The refund will be normally reviewed and made within 2 working days",
+    "du": "Terugbetaling met cadeaukaart: We beoordelen het verzoek en sturen u een cadeaukaart voor een bedrag gelijk aan het terug te betalen bedrag. De cadeaukaart kan voor alle artikelen worden gebruikt en er is geen minimumbedrag. De terugbetaling wordt normaal gesproken binnen 2 werkdagen beoordeeld."
+  },
+  {
+    "key": "pleaseEnterAmount",
+    "cn": "请填写退款金额",
+    "en": "Please enter the refund amount",
+    "du": "Voer het terug te betalen bedrag in"
+  },
+  {
+    "key": "pleaseEnterReason",
+    "cn": "请填写原因",
+    "en": "Please state the reason",
+    "du": "Geef de reden op voor de terugbetaling"
+  },
+  {
+    "key": "pleaseUploadPhoto",
+    "cn": "请上传图片",
+    "en": "Please upload pictures",
+    "du": "Upload foto's"
+  },
+  {
+    "key": "selectReundMethod",
+    "cn": "请选择退款方式",
+    "en": "Please select the method of refund",
+    "du": "Kies terugbetalingsmethode"
+  },
+  {
+    "key": "pleaseEnterBank",
+    "cn": "请输入银行卡号",
+    "en": "Please enter bank card number",
+    "du": "Voer nummer bankpas in"
+  },
+  {
+    "key": "pleaseEnterName",
+    "cn": "请输入姓名",
+    "en": "Please enter Name",
+    "du": "Voer naam in"
+  },
+  {
+    "key": "refunding",
+    "cn": "退款中",
+    "en": "Refunding",
+    "du": "Terugbetaling"
+  },
+  {
+    "key": "search",
+    "cn": "搜索",
+    "en": "Search",
+    "du": "Zoeken"
+  },
+  {
+    "key": "confirm",
+    "cn": "确定",
+    "en": "Confirm",
+    "du": "Bevestigen"
+  },
+  {
+    "key": "cancel",
+    "cn": "取消",
+    "en": "Cancel",
+    "du": "Annuleren"
+  },
+  {
+    "key": "submit",
+    "cn": "提交",
+    "en": "Submit",
+    "du": "Verzenden"
+  },
+  {
+    "key": "tips",
+    "cn": "提示",
+    "en": "Hint",
+    "du": "Tip"
+  },
+  {
+    "key": "uploadimage",
+    "cn": "上传图片",
+    "en": "Upload pictures",
+    "du": "Foto's uploaden"
+  },
+  {
+    "key": "clicktoupload",
+    "cn": "点击上传",
+    "en": "Click \"Upload\"",
+    "du": "Klik op \"uploaden\""
+  },
+  {
+    "key": "deleteimage",
+    "cn": "删除图片",
+    "en": "Delete the picture",
+    "du": "Foto verwijderen"
+  },
+  {
+    "key": "save",
+    "cn": "保存",
+    "en": "Save",
+    "du": "Opslaan"
+  },
+  {
+    "key": "sureToDeleteit",
+    "cn": "你确定要删除吗?",
+    "en": "Are you sure to delete?",
+    "du": "Weet u zeker dat u dit wilt verwijderen?"
+  },
+  {
+    "key": "title",
+    "cn": "Cookies 协议",
+    "en": "Cookies Agreement",
+    "du": "Cookie-overeenkomst"
+  },
+  {
+    "key": "info",
+    "cn": "为了给您提供更优质的服务，我们在我们的网站上使用Cookies。我们使用必要的、性能、分析Cookies来达到以下目的：确保网站功能正常运行，存储您的偏好，以及提供分析。您可以在我们的",
+    "en": "We use cookies on our website to provide you with better service. We use essential, functionality and analytics cookies for the following purposes: To ensure the website functions normally, store your preferences and provide analysis.",
+    "du": "We gebruiken cookies op onze website om u beter van dienst te kunnen zijn. We gebruiken essentiële, functionele en analytische cookies voor de volgende doeleinden: Om ervoor te zorgen dat de website normaal functioneert, om uw voorkeuren op te slaan en gegevens te analyseren."
+  },
+  {
+    "key": "click",
+    "cn": "Cookies政策",
+    "en": "For more information, please refer to our Cookies policy",
+    "du": "Zie voor meer informatie ons cookiebeleid."
+  },
+  {
+    "key": "msg",
+    "cn": "中找到更多信息点击“我同意”即表示同意使用Cookies。",
+    "en": "Click \"I Agree\" to agree with the use of Cookies.",
+    "du": "Klik op \"Akkoord\" om aan te geven dat u akkoord gaat met het gebruik van cookies."
+  },
+  {
+    "key": "agree",
+    "cn": "我同意",
+    "en": "I agree",
+    "du": "Akkoord"
+  },
+  {
+    "key": "error",
+    "cn": "请点击“我同意”",
+    "en": "Please click \"I Agree“",
+    "du": "Klik op \"Akkoord\""
+  },
+  {
+    "key": "rules",
+    "cn": "优惠券说明",
+    "en": "Voucher Description",
+    "du": "Beschrijving voucher"
+  },
+  {
+    "key": "cancelVoucher",
+    "cn": "取消优惠券",
+    "en": "Cancel Voucher",
+    "du": "Voucher annuleren"
+  },
+  {
+    "key": "expired",
+    "cn": "已失效",
+    "en": "Expired",
+    "du": "Vervallen"
+  },
+  {
+    "key": "unavailable",
+    "cn": "不可用",
+    "en": "Unavailable",
+    "du": "Niet beschikbaar"
+  },
+  {
+    "key": "nostart",
+    "cn": "未开始",
+    "en": "Unstarted",
+    "du": "Niet begonnen"
+  },
+  {
+    "key": "expiryDate",
+    "cn": "有效期",
+    "en": "Remain valid",
+    "du": "Blijven geldig"
+  },
+  {
+    "key": "entryvoucher",
+    "cn": "请输入券码",
+    "en": "Please enter voucher code",
+    "du": "Voer vouchercode in"
+  },
+  {
+    "key": "over",
+    "cn": "满 {money} 可用",
+    "en": "Available from {money}",
+    "du": "Beschikbaar vanaf {money}"
+  },
+  {
+    "key": "cash",
+    "cn": "充值券",
+    "en": "Rechargeable Voucher",
+    "du": "Cadeaukaart"
+  },
+  {
+    "key": "freeshipping",
+    "cn": "包邮券",
+    "en": "Free Shipping Voucher",
+    "du": "Voucher gratis verzending"
+  },
+  {
+    "key": "cancelCash",
+    "cn": "取消充值券",
+    "en": "Cancel Rechargeable Voucher",
+    "du": "Cadeaukaart annuleren"
+  },
+  {
+    "key": "noExpired",
+    "cn": "该充值劵可叠加使用，无失效时间",
+    "en": "The rechargeable vouchers can be stacked，no expiry date",
+    "du": "Cadeaukaarten kunnen tegelijkertijd worden gebruikt en vervallen niet"
+  },
+  {
+    "key": "loginTitle",
+    "cn": "登录账号",
+    "en": "Log in",
+    "du": "Inloggen"
+  },
+  {
+    "key": "loginInfo",
+    "cn": "NLE客户输入账户邮箱即可登录, 余额可直接支付。",
+    "en": "NLE customers can log in by entering their account email address, and the balance can be used to pay directly.",
+    "du": "Klanten van NLE kunnen inloggen door het e-mailadres van hun account in te voeren; het saldo kan direct worden betaald."
+  },
+  {
+    "key": "passwdPlaceholder",
+    "cn": "请输入密码",
+    "en": "Please enter Password",
+    "du": "Voer wachtwoord in"
+  },
+  {
+    "key": "forgetPasswd",
+    "cn": "忘记密码？",
+    "en": "Forget your password?",
+    "du": "Wachtwoord vergeten?"
+  },
+  {
+    "key": "loginBtn",
+    "cn": "登录",
+    "en": "Log In",
+    "du": "Inloggen"
+  },
+  {
+    "key": "register",
+    "cn": "新用户注册",
+    "en": "Sign up",
+    "du": "Registratie"
+  },
+  {
+    "key": "registerInfo",
+    "cn": "邮箱注册成功后，将无法修改！建议您填写您的私人邮箱。",
+    "en": "After signing up is successful, the email address you enter cannot be changed; you are advised to use your personal email address.",
+    "du": "Na succesvolle registratie kan het e-mailadres dat u hebt ingevoerd niet meer worden gewijzigd; wij raden aan uw persoonlijke e-mailadres te gebruiken."
+  },
+  {
+    "key": "registerProtocol",
+    "cn": "同意注册协议，点击阅读。",
+    "en": "Accept the registration agreement, click\"Read\"",
+    "du": "Ga akkoord met de registratieovereenkomst, klik op \"Lezen\""
+  },
+  {
+    "key": "registerBtn",
+    "cn": "立即注册",
+    "en": "Sign up now",
+    "du": "Registreren"
+  },
+  {
+    "key": "forget",
+    "cn": "忘记密码",
+    "en": "Forget password",
+    "du": "Wachtwoord vergeten"
+  },
+  {
+    "key": "remember",
+    "cn": "七天内免登录",
+    "en": "No need to log in within 7 days",
+    "du": "Zeven dagen lang niet inloggen"
+  },
+  {
+    "key": "return",
+    "cn": "返回",
+    "en": "Return",
+    "du": "Retourneren"
+  },
+  {
+    "key": "mailerror",
+    "cn": "邮箱格式不正确",
+    "en": "Incorrect format of Email address",
+    "du": "Ongeldig e-mailadres"
+  },
+  {
+    "key": "check",
+    "cn": "请先勾选用户协议才能进行下一步操作",
+    "en": "Please check the user agreement before moving on to next step",
+    "du": "Bekijk eerst de gebruikersovereenkomst voordat u naar de volgende stap gaat"
+  },
+  {
+    "key": "emailMessage",
+    "cn": "E-mail不能为空",
+    "en": "E-mail address cannot be empty",
+    "du": "E-mailadres mag niet leeg zijn"
+  },
+  {
+    "key": "passwdMessage",
+    "cn": "密码不能为空",
+    "en": "Passward cannot be empty",
+    "du": "Wachtwoord mag niet leeg zijn"
+  },
+  {
+    "key": "NL",
+    "cn": "荷兰",
+    "en": "Netherlands",
+    "du": "Nederland"
+  },
+  {
+    "key": "DE",
+    "cn": "德国",
+    "en": "Germany",
+    "du": "Duitsland"
+  },
+  {
+    "key": "BE",
+    "cn": "比利时",
+    "en": "Belgium",
+    "du": "België"
+  },
+  {
+    "key": "account",
+    "cn": "我的账号",
+    "en": "My Account",
+    "du": "Mijn Account"
+  },
+  {
+    "key": "login",
+    "cn": "登录|注册",
+    "en": "Log in/Sign up",
+    "du": "Inloggen/Registreren"
+  },
+  {
+    "key": "coustom",
+    "cn": "客服",
+    "en": "Customer Service",
+    "du": "Klantenservice"
+  },
+  {
+    "key": "suggest",
+    "cn": "反馈建议",
+    "en": "Feedback and suggestions",
+    "du": "Feedback en suggesties"
+  },
+  {
+    "key": "toTop",
+    "cn": "返回顶部",
+    "en": "Return to the top",
+    "du": "Terug naar boven"
+  },
+  {
+    "key": "all",
+    "cn": "全部",
+    "en": "All",
+    "du": "Alle"
+  },
+  {
+    "key": "nothing",
+    "cn": "暂无商品",
+    "en": "No items",
+    "du": "Geen artikelen"
+  },
+  {
+    "key": "selectCode",
+    "cn": "请选择手机区号",
+    "en": "Select area code",
+    "du": "Netnummer kiezen"
+  },
+  {
+    "key": "add",
+    "cn": "添加发票",
+    "en": "Add invoice",
+    "du": "Factuur toevoegen"
+  },
+  {
+    "key": "default",
+    "cn": "默认",
+    "en": "Default",
+    "du": "Standaard"
+  },
+  {
+    "key": "edit",
+    "cn": "编辑发票",
+    "en": "Edit invoice",
+    "du": "Factuur wijzigen"
+  },
+  {
+    "key": "company",
+    "cn": "我是公司",
+    "en": "I am a company",
+    "du": "Ik ben een bedrijf"
+  },
+  {
+    "key": "todefault",
+    "cn": "设置为默认地址",
+    "en": "Set as default",
+    "du": "Als standaard instellen"
+  },
+  {
+    "key": "newaddress",
+    "cn": "新增发票",
+    "en": "New invoice",
+    "du": "Nieuwe factuur"
+  },
+  {
+    "key": "deleteAddr",
+    "cn": "是否确认删除{name}?",
+    "en": "Are you sure to delete {name}?",
+    "du": "Weet u zeker dat u {name} wilt verwijderen?"
+  },
+  {
+    "key": "add",
+    "cn": "添加地址",
+    "en": "Add address",
+    "du": "Adres toevoegen"
+  },
+  {
+    "key": "edit",
+    "cn": "编辑地址",
+    "en": "Edit address",
+    "du": "Adres wijzigen"
+  },
+  {
+    "key": "name",
+    "cn": "请输入发件人",
+    "en": "Please enter sender name",
+    "du": "Voer naam afzender in"
+  },
+  {
+    "key": "country",
+    "cn": "中国",
+    "en": "CN",
+    "du": "CN"
+  },
+  {
+    "key": "name",
+    "cn": "请输入收件人（中文）",
+    "en": "Please enter recipient name",
+    "du": "Voer naam ontvanger in"
+  },
+  {
+    "key": "phone",
+    "cn": "请输入联系电话",
+    "en": "Please enter phone number",
+    "du": "Voer telefoonnummer in"
+  },
+  {
+    "key": "city",
+    "cn": "请选择省市区",
+    "en": "Please select province, city and district",
+    "du": "Kies provincie, plaats en district"
+  },
+  {
+    "key": "street",
+    "cn": "请输入详细地址（不用重复填写省市）",
+    "en": "Please enter detailed address (no need to enter province, city names again)",
+    "du": "Voer straatnaam en huisnummer in (provincie en plaats hoeven niet te worden herhaald)"
+  },
+  {
+    "key": "id",
+    "cn": "请输入身份证号",
+    "en": "Please enter ID",
+    "du": "Voer ID in"
+  },
+  {
+    "key": "postcode",
+    "cn": "请输入邮编（选填）",
+    "en": "Please enter postcode (optional)",
+    "du": "Voer postcode in (optioneel)"
+  },
+  {
+    "key": "idpic",
+    "cn": "上传身份证",
+    "en": "Upload ID",
+    "du": "ID uploaden"
+  },
+  {
+    "key": "front",
+    "cn": "正面",
+    "en": "ID Front",
+    "du": "Voorkant ID"
+  },
+  {
+    "key": "backside",
+    "cn": "反面",
+    "en": "ID Back",
+    "du": "Achterkant ID"
+  },
+  {
+    "key": "name",
+    "cn": "请输入公司名称",
+    "en": "Enter company name",
+    "du": "Bedrijfsnaam invoeren"
+  },
+  {
+    "key": "kvk",
+    "cn": "请输入KVK商会注册号码",
+    "en": "Enter KVK registration number",
+    "du": "KvK-nummer invoeren"
+  },
+  {
+    "key": "vat",
+    "cn": "请输入VAT号码",
+    "en": "Enter VAT number",
+    "du": "Btw-nummer invoeren"
+  },
+  {
+    "key": "edit",
+    "cn": "编辑",
+    "en": "Edit",
+    "du": "Wijzigen"
+  },
+  {
+    "key": "yes",
+    "cn": "是",
+    "en": "Yes",
+    "du": "Ja"
+  },
+  {
+    "key": "no",
+    "cn": "否",
+    "en": "No",
+    "du": "Nee"
+  },
+  {
+    "key": "name",
+    "cn": "请输入收件人",
+    "en": "Enter recipient name",
+    "du": "Naam ontvanger invoeren"
+  },
+  {
+    "key": "postcode",
+    "cn": "请输入邮编",
+    "en": "Enter postcode",
+    "du": "Postcode invoeren"
+  },
+  {
+    "key": "doorno",
+    "cn": "请输入门牌号",
+    "en": "Enter house number",
+    "du": "Huisnummer invoeren"
+  },
+  {
+    "key": "city",
+    "cn": "请输入城市",
+    "en": "Enter city name",
+    "du": "Plaatsnaam invoeren"
+  },
+  {
+    "key": "street",
+    "cn": "请输入街道",
+    "en": "Enter subdistrict name",
+    "du": "Straatnaam invoeren"
+  },
+  {
+    "key": "buy",
+    "cn": "购物指南",
+    "en": "Shopping guidance",
+    "du": "Winkelgids"
+  },
+  {
+    "key": "guide",
+    "cn": "购物流程",
+    "en": "Shopping process",
+    "du": "Winkelproces"
+  },
+  {
+    "key": "payment",
+    "cn": "支付方式",
+    "en": "Payment Method",
+    "du": "Betalingsmethode"
+  },
+  {
+    "key": "after",
+    "cn": "售后规范",
+    "en": "Specifications on after-sales services",
+    "du": "Specificaties aftersales-services:"
+  },
+  {
+    "key": "faq",
+    "cn": "常见问题",
+    "en": "Common problems",
+    "du": "Veel voorkomende problemen"
+  },
+  {
+    "key": "about",
+    "cn": "关于欧亚商城",
+    "en": "About MyEUShop",
+    "du": "Over MyEUShop"
+  },
+  {
+    "key": "join",
+    "cn": "加入我们",
+    "en": "Join us",
+    "du": "Doe met ons mee"
+  },
+  {
+    "key": "agreement",
+    "cn": "用户协议说明",
+    "en": "User Agreement Description",
+    "du": "Beschrijving gebruikersovereenkomst"
+  },
+  {
+    "key": "ac",
+    "cn": "烟酒产品免责协议",
+    "en": "Disclaimer Agreement for Tobacco and Alcoholic Products",
+    "du": "Vrijstellingsovereenkomst voor tabak en alcohol"
+  },
+  {
+    "key": "commingStart",
+    "cn": "即将开始",
+    "en": "About to start",
+    "du": "Begint bijna"
+  },
+  {
+    "key": "onSale",
+    "cn": "秒杀中",
+    "en": "Flash selling",
+    "du": "Flash-verkoop"
+  },
+  {
+    "key": "startIn",
+    "cn": "距开始",
+    "en": "Start in",
+    "du": "Begint in"
+  },
+  {
+    "key": "endIn",
+    "cn": "距结束",
+    "en": "End in",
+    "du": "Eindigt in"
+  },
+  {
+    "key": "buynow",
+    "cn": "立即抢购",
+    "en": "Snap up now",
+    "du": "Nu kopen"
+  },
+  {
+    "key": "soldout",
+    "cn": "已售罄",
+    "en": "Sold out",
+    "du": "Uitverkocht"
+  },
+  {
+    "key": "title",
+    "cn": "申请成为商家",
+    "en": "Apply to become a seller",
+    "du": "Verzoek indienen om verkoper te worden"
+  },
+  {
+    "key": "chinese",
+    "cn": "中文",
+    "en": "Chinese",
+    "du": "Chinees"
+  },
+  {
+    "key": "email",
+    "cn": "邮箱",
+    "en": "Email Address",
+    "du": "E-mailadres"
+  },
+  {
+    "key": "checkEmail",
+    "cn": "请输入邮箱地址",
+    "en": "Please enter your email address",
+    "du": "Voer uw e-mailadres in"
+  },
+  {
+    "key": "rightEmail",
+    "cn": "请输入正确的邮箱地址",
+    "en": "Please enter correct email address",
+    "du": "Voer een correct e-mailadres in"
+  },
+  {
+    "key": "eushopEmail",
+    "cn": "MyEUShop的注册邮箱",
+    "en": "Email for signing up MyEUShop",
+    "du": "E-mail voor registratie bij MyEUShop"
+  },
+  {
+    "key": "eushopPwd",
+    "cn": "MyEUShop的注册密码",
+    "en": "Password for signing up MyEUShop",
+    "du": "Wachtwoord voor registratie by MyEUShop"
+  },
+  {
+    "key": "logoSize",
+    "cn": "图片尺寸260x140",
+    "en": "Picture Size 260x140",
+    "du": "Afmetingen foto: 260x140"
+  },
+  {
+    "key": "bannerSize",
+    "cn": "图片尺寸1140x300",
+    "en": "Picture Size 1140x300",
+    "du": "Afmetingen foto: 1140x300"
+  },
+  {
+    "key": "bannerInfo",
+    "cn": "有广告图销量更好哦",
+    "en": "More sales with advertising pictures",
+    "du": "Verkoop meer door gebruik reclamefoto's"
+  },
+  {
+    "key": "password",
+    "cn": "密码",
+    "en": "Password",
+    "du": "Wachtwoord"
+  },
+  {
+    "key": "shopZn",
+    "cn": "店铺中文名称",
+    "en": "Store's Chinese Name",
+    "du": "Chinese naam winkel"
+  },
+  {
+    "key": "rightZn",
+    "cn": "请输入中文店铺名称",
+    "en": "Please enter Chinese name",
+    "du": "Voer Chinese naam in"
+  },
+  {
+    "key": "shopEn",
+    "cn": "店铺英文名称",
+    "en": "Store's English Name",
+    "du": "Engelse naam winkel"
+  },
+  {
+    "key": "rightEn",
+    "cn": "请输入英文店铺名称",
+    "en": "Please enter English Name",
+    "du": "Voer Engelse naam in"
+  },
+  {
+    "key": "number",
+    "cn": "客服电话",
+    "en": "Customer Service Phone",
+    "du": "Telefoonnummer klantenservice"
+  },
+  {
+    "key": "rightNum",
+    "cn": "请输入客服电话",
+    "en": "Please enter customer service phone",
+    "du": "Voer telefoonnummer klantenservice in"
+  },
+  {
+    "key": "qq",
+    "cn": "客服QQ",
+    "en": "Customer service QQ",
+    "du": "Klantenservice QQ"
+  },
+  {
+    "key": "wechat",
+    "cn": "客服微信",
+    "en": "Customer service WeChat",
+    "du": "Klantenservice WeChat"
+  },
+  {
+    "key": "Introduce",
+    "cn": "店铺介绍",
+    "en": "About the store",
+    "du": "Over de winkel"
+  },
+  {
+    "key": "logo",
+    "cn": "店铺LOGO",
+    "en": "Store's Logo",
+    "du": "Logo winkel"
+  },
+  {
+    "key": "rightLogo",
+    "cn": "请上传店铺LOGO",
+    "en": "Please upload the store's logo",
+    "du": "Upload het logo van de winkel"
+  },
+  {
+    "key": "banner",
+    "cn": "店铺广告图",
+    "en": "Ad picture for the store",
+    "du": "Voeg foto van de winkel toe"
+  },
+  {
+    "key": "confirm",
+    "cn": "确认",
+    "en": "Comfirm",
+    "du": "Bevestigen"
+  },
+  {}
+]
